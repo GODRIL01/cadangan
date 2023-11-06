@@ -94,6 +94,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="Lokal ",moji
+http://89.41.181.74:8070/Vladisergeevic/7eef2c4388/298550?token=ShUNAEFcElxEAAJVAFhWBAMAUlBRAlFfU1VbB1ZRUAcBAVdTUVYBAwUaGEZKTREDAFhpWAUVDwsPCVZXB05DFkJSFz5bUBJcRAkHVgAKUkRNF0JYDFIXAwcHWlsFV1NVBQVJQ0JdVERcGgFWCQpSRE0XU0kVUkdXV108BlIUCABUFV8PR1hcSkRXWjtdXA4HD1EUC0MHFxUUWBASFVgPFl1bSUNQXUQUB0xRRgMbUFdUARQdQ1RaTFhFERsVWEMqdRVJQ1dMRAMIS10LVxtZRBVGFB1DXkZmRFQQFkUHAA5URUdbEAUSSkRVVRxmWgwID1BVRQhYW0oUC0FTB1JRQR0VCA5cXUQJFGdEDV0bWURTBQICURVI
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
