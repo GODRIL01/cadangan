@@ -79,20 +79,30 @@ https://mangga-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 https://mangga-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="Lokal ",SCTV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="Lokal ",INDOSIAR
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+http://tvkuonline.my.id:25461/riyad/riyad/14
+https://my-vidio.mystream.workers.dev/index.m3u8?id=205
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="Lokal ",moji
-http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/298550
-http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
+https://mantul.biz.id:443/ekos/748382/8251.ts
+http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
+https://iptvme.xyz/vid/hls.m3u8?id=206
+http://tvkuonline.my.id:25461/live/riyad/riyad/24.m3u8
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
