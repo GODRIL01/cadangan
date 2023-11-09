@@ -40,7 +40,7 @@
 
 #EXTINF:0 tvg-id="Trans7.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/trans-7.png " group-title="Lokal ",Trans 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://servicebuss.transvision.co.id/tvs/login/external?email=itcore.master_st2@trv.co.id&password=MTIzNDU2Nzg=&deviceId=1234567890&deviceType=A&deviceModel=A21&deviceToken=&serial=&platformId=4028c68574537fcd0174af6756a94288
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.transvision.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 
