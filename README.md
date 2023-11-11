@@ -97,7 +97,7 @@ https://my-vidio.mystream.workers.dev/index.m3u8?id=205
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="Lokal ",moji
-http://103.166.27.2:8112/play/a014
+http://103.166.27.2:8112/play/a017
 https://mantul.biz.id:443/ekos/748382/8251.ts
 http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 https://iptvme.xyz/vid/hls.m3u8?id=206
