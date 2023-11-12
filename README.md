@@ -36,7 +36,7 @@
 
 #EXTINF:-1 tvg-chno="10" tvg-id="indosiar" tvg-name="indosiar" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="Lokal",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-http://103.166.27.2:8112/play/a016/index.m3u8
+http://103.166.27.2:8112/play/a016.m3u8
 
 
 
