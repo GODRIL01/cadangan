@@ -148,6 +148,34 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="Lokal ",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+https://mantul.biz.id/ekos/748382/60
+https://mantul.biz.id/ekos/748382/10
+https://mantul.biz.id/ekos/748382/11
+https://mantul.biz.id/ekos/748382/12
+https://mantul.biz.id/ekos/748382/13
+https://mantul.biz.id/ekos/748382/14
+https://mantul.biz.id/ekos/748382/15
+https://mantul.biz.id/ekos/748382/16
+https://mantul.biz.id/ekos/748382/17
+https://mantul.biz.id/ekos/748382/18
+https://mantul.biz.id/ekos/748382/19
+https://mantul.biz.id/ekos/748382/20
+https://mantul.biz.id/ekos/748382/21
+https://mantul.biz.id/ekos/748382/22
+https://mantul.biz.id/ekos/748382/23
+https://mantul.biz.id/ekos/748382/24
+https://mantul.biz.id/ekos/748382/25
+https://mantul.biz.id/ekos/748382/26
+https://mantul.biz.id/ekos/748382/27
+https://mantul.biz.id/ekos/748382/28
+https://mantul.biz.id/ekos/748382/29
+https://mantul.biz.id/ekos/748382/30
+https://mantul.biz.id/ekos/748382/31
+https://mantul.biz.id/ekos/748382/32
+https://mantul.biz.id/ekos/748382/33
+https://mantul.biz.id/ekos/748382/34
+https://mantul.biz.id/ekos/748382/35
+https://mantul.biz.id/ekos/748382/36
 
 
 
