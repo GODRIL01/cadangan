@@ -148,34 +148,34 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="Lokal ",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-https://mantul.biz.id/ekos/748382/60
-https://mantul.biz.id/ekos/748382/10
+https://mantul.biz.id/ekos/748382/01
+https://mantul.biz.id/ekos/748382/02
 
-https://mantul.biz.id/ekos/748382/20
+https://mantul.biz.id/ekos/748382/03
 
-https://mantul.biz.id/ekos/748382/39
-https://mantul.biz.id/ekos/748382/40
-https://mantul.biz.id/ekos/748382/41
-https://mantul.biz.id/ekos/748382/42
-https://mantul.biz.id/ekos/748382/43
-https://mantul.biz.id/ekos/748382/44
-https://mantul.biz.id/ekos/748382/45
-https://mantul.biz.id/ekos/748382/46
-https://mantul.biz.id/ekos/748382/47
-https://mantul.biz.id/ekos/748382/48
-https://mantul.biz.id/ekos/748382/49
-https://mantul.biz.id/ekos/748382/50
-https://mantul.biz.id/ekos/748382/51
-https://mantul.biz.id/ekos/748382/52
-https://mantul.biz.id/ekos/748382/53
-https://mantul.biz.id/ekos/748382/54
-https://mantul.biz.id/ekos/748382/55
-https://mantul.biz.id/ekos/748382/56
-https://mantul.biz.id/ekos/748382/57
-https://mantul.biz.id/ekos/748382/58
-https://mantul.biz.id/ekos/748382/59
-https://mantul.biz.id/ekos/748382/61
-https://mantul.biz.id/ekos/748382/62
+https://mantul.biz.id/ekos/748382/04
+https://mantul.biz.id/ekos/748382/05
+https://mantul.biz.id/ekos/748382/06
+https://mantul.biz.id/ekos/748382/07
+https://mantul.biz.id/ekos/748382/08
+https://mantul.biz.id/ekos/748382/09
+https://mantul.biz.id/ekos/748382/63
+https://mantul.biz.id/ekos/748382/64
+https://mantul.biz.id/ekos/748382/65
+https://mantul.biz.id/ekos/748382/66
+https://mantul.biz.id/ekos/748382/67
+https://mantul.biz.id/ekos/748382/68
+https://mantul.biz.id/ekos/748382/69
+https://mantul.biz.id/ekos/748382/70
+https://mantul.biz.id/ekos/748382/71
+https://mantul.biz.id/ekos/748382/72
+https://mantul.biz.id/ekos/748382/73
+https://mantul.biz.id/ekos/748382/74
+https://mantul.biz.id/ekos/748382/75
+https://mantul.biz.id/ekos/748382/76
+https://mantul.biz.id/ekos/748382/77
+https://mantul.biz.id/ekos/748382/78
+https://mantul.biz.id/ekos/748382/79
 
 
 
