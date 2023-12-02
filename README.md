@@ -661,7 +661,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTINF:-1 tvg-id="HBO" tvg-url="" tvg-logo="hboasia.sg " group-title="Movies",HBO 
+#EXTINF:-1 tvg-id="HBO" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115 " group-title="Movies",HBO 
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-id="hboasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO FHD
