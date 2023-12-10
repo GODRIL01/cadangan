@@ -168,7 +168,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="Lokal", MOJI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 https://raw.githubusercontent.com/GODRIL01/cadangan/main/moji2.m3u8
 https://raw.githubusercontent.com/GODRIL01/cadangan/main/moji.m3u8
 
