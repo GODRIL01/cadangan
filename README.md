@@ -168,8 +168,8 @@ https://op-group1-swiftservehd-1.dens.tv/s/s41/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="Lokal", MOJI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://raw.githubusercontent.com/GODRIL01/cadangan/main/moji.m3u8
+https://op-group1-swiftservehd-1.dens.tv/s/s41/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/Moji_gradient.svg.png/200px-Moji_gradient.svg.png " group-title="INDONESIA", MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
