@@ -168,7 +168,7 @@ http://op-group1-swiftservehd-1.dens.tv/s/s41/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="Lokal", MOJI
-http://op-group1-swiftservehd-1.dens.tv/s/s41/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/s/s41/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/Moji_gradient.svg.png/200px-Moji_gradient.svg.png " group-title="INDONESIA", MOJI
