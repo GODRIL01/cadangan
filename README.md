@@ -175,9 +175,10 @@ https://op-group1-swiftservehd-1.dens.tv/s/s41/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/Moji_gradient.svg.png/200px-Moji_gradient.svg.png " group-title="INDONESIA", MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://s.id/1YseN
 https://raw.githubusercontent.com/GODRIL01/cadangan/main/moji.m3u8
 
-https://s.id/1YseN
+
 
 
 
