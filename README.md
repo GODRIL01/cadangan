@@ -170,7 +170,7 @@ http://op-group1-swiftservehd-1.dens.tv/s/s41/index.m3u8
 #EXTINF:-1 tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="Lokal", MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://myteve.online:8080/resplice/wdLIS4d9758INyuX/298550
-http://op-group1-swiftservehd-1.dens.tv/s/s41/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/s/s41/02.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/Moji_gradient.svg.png/200px-Moji_gradient.svg.png " group-title="INDONESIA", MOJI
@@ -186,7 +186,7 @@ https://raw.githubusercontent.com/GODRIL01/cadangan/main/moji.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="Lokal",moji
-https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/s/s41/02.m3u8
 
 http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
