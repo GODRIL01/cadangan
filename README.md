@@ -171,15 +171,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 http://myteve.online:8080/resplice/wdLIS4d9758INyuX/298550
 http://op-group1-swiftservehd-1.dens.tv/s/s41/02.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/Moji_gradient.svg.png/200px-Moji_gradient.svg.png " group-title="INDONESIA", MOJI
-https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="Lokal", MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://bit.ly/3TjM1Hx
 https://s.id/1YseN
-https://raw.githubusercontent.com/GODRIL01/cadangan/main/moji.m3u8
-
-
 
 
 
