@@ -1,4 +1,4 @@
-       
+ko       
 
 
 
@@ -171,7 +171,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 http://myteve.online:8080/resplice/wdLIS4d9758INyuX/298550
 http://op-group1-swiftservehd-1.dens.tv/s/s41/02.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="Lokal", MOJI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="Lokal", MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://s.id/1YseN
 
