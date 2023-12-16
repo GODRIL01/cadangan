@@ -175,6 +175,8 @@ http://op-group1-swiftservehd-1.dens.tv/s/s41/02.m3u8
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://s.id/1YseN
 
+#EXTINF:-1 group-title="🇮🇩 Lokal 🇮🇩"group-logo="https://s.id/1LDhj" tvg-id="MOJI" tvg-logo="https://www.dropbox.com/s/1inleddhpyh213r/20230607_204258.png?dl=1",Moji TV
+http://myteve.online:8080/resplice/wdLIS4d9758INyuX/298550
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
