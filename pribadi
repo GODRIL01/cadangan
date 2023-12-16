@@ -70,16 +70,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 https://bit.ly/3NrgCPP
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="Lokal ",moji
-https://bit.ly/3TjM1Hx
-https://s.id/1YseN
-
-
-
-
-
+#EXTINF:-1 group-title="Lokal"group-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ",Moji TV
+http://myteve.online:8080/resplice/wdLIS4d9758INyuX/298550
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
