@@ -694,7 +694,7 @@ https://testfunctionlive.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.
 #EXTINF:-1 tvg-id="TVRI SPORT HD.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png " group-title="SPORTS ",TVRI SPORT HD 
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream4/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-country="AR" tvg-logo=" https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/dubaisports-logo.jpg" group-title="Sports",DUBAI SPORTS
+#EXTINF:-1 tvg-country="AR" tvg-logo=" https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/dubaisports-logo.jpg" group-title="SPORTS",DUBAI SPORTS
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 #EXTINF:-1 tvg-country="AR" tvg-logo="https://www.elsafa-nwes.com/wp-content/uploads/2019/11/Abu-Dhabi-Sports-2.jpg " group-title="SPORTS ",AD Sports 2
