@@ -287,7 +287,7 @@ https://v2.siar.us/aditv/livestream/chunks.m3u8
 ******************************************************MOVIES**************************************************************
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://servicebuss.transvision.co.id/matrix-cas/live-tv/list
+#KODIPROP:inputstream.adaptive.license_key=https://www.cubmu.com/api/checkEnv
 #EXTINF:-1 tvg-id="HBO" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115 " group-title="MOVIES",HBO 
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
