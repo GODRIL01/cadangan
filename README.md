@@ -85,8 +85,6 @@
 https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
 
 
-
-
 #EXTM3U 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
