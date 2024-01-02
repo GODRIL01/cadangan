@@ -146,7 +146,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 title="NASIONAL",moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Infinix X6812B Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.144 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://dens.tv
-https://bit.ly/3TjM1Hx
+https://raw.githubusercontent.com/GODRIL01/cadangan/main/moji.m3u8
 https://s.id/1YseN
 
 *****************************************************************************************************
