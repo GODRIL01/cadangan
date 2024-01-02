@@ -287,6 +287,25 @@ https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 
 ******************************************************MOVIES**************************************************************
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="MOVIES",HBO (Thi)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da901f885137d1f274dc7592762611ab:4d3536a7f0d996d6b013fc3dc1de7a3d
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png" group-title="MOVIES",HBO Hits 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56c2717c2c6431c75ac1fbf64a997cb6:d4544ffd929b2da1f6101705e74facee
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0116/DASH/V0116.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES",HBO Family 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96af42ae402ccc9b3f92a8e99ec8f5aa:6a0991ae3f06f76a010afa5515f67ac6
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0115/DASH/V0115.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO Signature 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97c1c27765dae9b95ee04ea6e8f50c34:7db57b354d4d9cdb22e256c2a7500956
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0117/DASH/V0117.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
