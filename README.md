@@ -143,6 +143,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="NASIONAL",moji
+http://210.210.155.35/session/c5ab5a56-a926-11ee-8e86-84dc8575a09a/x6bnqe/s/s41/01.m3u8
 http://cheaptv.online:8080/stadnik2/7082341272/298550
 https://bit.ly/3TjM1Hx
 https://s.id/1YseN
