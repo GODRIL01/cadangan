@@ -88,10 +88,10 @@ https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
 https://s.id/hboHD_shareext-ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", hbo hits
-https://s.id/hbohitsHD_shareext-ts
+https://s.id/hbo_hitsHD_shareext-ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", hbo family
-https://s.id/hbofamilyHD_shareext-ts
+https://s.id/hbo_familyHD_shareext-ts
 
 
 
