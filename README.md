@@ -134,10 +134,10 @@ https://testfunctionlive.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 https://s.id/indosiarHD_shareext-ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV
-https://s.id/sctvHD_shareext-t
+https://s.id/sctvHD_shareext-ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV moji
-https://s.id/mojiHD_shareext-t
+https://s.id/mojiHD_shareext-ts
 
 
 
