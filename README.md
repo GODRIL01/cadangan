@@ -130,6 +130,11 @@ https://testfunctionlive.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 *********************************************EMTEX**************************************************
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV mentari
+https://s.id/mentariHD_shareext-ts
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar
 https://s.id/indosiarHD_shareext-ts
 
