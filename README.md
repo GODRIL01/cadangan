@@ -91,7 +91,7 @@ https://s.id/hboHD_shareext-ts
 https://s.id/hbohitsHD_shareext-ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", hbo family
-https://s.id/hbofamilyHD_shareext-t
+https://s.id/hbofamilyHD_shareext-ts
 
 
 
