@@ -84,6 +84,10 @@
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV hbo
+https://s.id/hboHD_shareext-ts
+
+
 
 #EXTM3U 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
