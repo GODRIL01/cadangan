@@ -93,6 +93,10 @@ https://s.id/hbohits_shareext-ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", hbo family
 https://s.id/hbofamily_shareext-ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", hbo signature
+https://s.id/hbosignature_shareext-ts
+
+
 
 
 
