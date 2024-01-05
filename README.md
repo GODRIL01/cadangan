@@ -165,32 +165,9 @@ https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
 https://s.id/1YseN
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="NASIONAL ", MOJI
+#EXTINF:-1 tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ", MOJI HT
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/51
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/52
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/53
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/54
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/55
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/56
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/57
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/58
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/59
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/60
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/61
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/62
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/63
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/64
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/65
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/66
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/67
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/68
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/99
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/70
-
-
-
 https://s.id/1YseN
 
 
