@@ -123,7 +123,7 @@ https://testfunctionlive.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 https://testfunctionlive.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 *********************************************EMTEX**************************************************
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png " group-title="NASIONAL", MENTARI
+#EXTINF:-1 tvg-id="MENTARI.Id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png " group-title="NASIONAL", MENTARI
 https://s.id/mentariHD_shareext-ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
