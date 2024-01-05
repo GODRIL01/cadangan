@@ -140,7 +140,7 @@ https://s.id/indosiarHD_shareext-ts
 https://s.id/sctvHD_shareext-ts
 
 #EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="INDONESIA", SCTV moji
-https://raw.githubusercontent.com/GODRIL01/cadangan/main/moji.m3u8
+https://bit.ly/48sLwQs
 https://s.id/mojiHD_shareext-ts
 
 
