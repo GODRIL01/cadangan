@@ -135,7 +135,6 @@ http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/26
 https://s.id/mentariHD_shareext-ts
 
 #EXTINF:-1 group-title="LALAK TV" tvg-id="moji.id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png ",INDOSIAR LTV
-https://raw.githubusercontent.com/GODRIL01/cadangan/main/indosiar.m3u8
 http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/10
 https://s.id/indosiarHD_shareext-ts
 
