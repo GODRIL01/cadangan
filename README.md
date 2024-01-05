@@ -130,18 +130,21 @@ https://testfunctionlive.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 *********************************************EMTEX**************************************************
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png " group-title="INDONESIA", MENTARI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png " group-title="LALAK TV ", MENTARI LTV
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/26
 https://s.id/mentariHD_shareext-ts
 
-#EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="INDONESIA", INDOSIAR
+#EXTINF:-1 group-title="LALAK TV" tvg-id="moji.id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png ",INDOSIAR LTV
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/10
 https://s.id/indosiarHD_shareext-ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV
+#EXTINF:-1 group-title="LALAK TV" tvg-id="moji.id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png ",SCTV LTV
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/11
 https://s.id/sctvHD_shareext-ts
 
-#EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="INDONESIA", SCTV moji
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
-https://s.id/mojiHD_shareext-ts
+#EXTINF:-1 group-title="LALAK TV" tvg-id="moji.id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ",Moji LTV
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/22
+
 
 
 
