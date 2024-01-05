@@ -84,22 +84,6 @@
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", hbo
-https://s.id/hboHD_shareext-ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", hbo hits
-https://s.id/hbohits_shareext-ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", hbo family
-https://s.id/family_shareext-ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", hbo signature
-https://s.id/signature_shareext-ts
-
-
-
-
-
 
 #EXTM3U 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -146,18 +130,16 @@ https://testfunctionlive.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 *********************************************EMTEX**************************************************
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV mentari
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png " group-title="INDONESIA", MENTARI
 https://s.id/mentariHD_shareext-ts
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar
+#EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="INDONESIA", INDOSIAR
 https://s.id/indosiarHD_shareext-ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV
 https://s.id/sctvHD_shareext-ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV moji
+#EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="INDONESIA", SCTV moji
 https://s.id/mojiHD_shareext-ts
 
 
