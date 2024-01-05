@@ -168,6 +168,17 @@ https://s.id/1YseN
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="NASIONAL ", MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/24
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/25
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/26
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/27
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/30
+
+
+
+
 https://s.id/1YseN
 
 
