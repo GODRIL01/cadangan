@@ -168,24 +168,26 @@ https://s.id/1YseN
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="NASIONAL ", MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/05
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/06
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/07
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/08
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/09
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/10
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/11
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/12
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/13
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/14
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/15
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/16
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/17
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/18
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/19
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/20
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/21
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/22
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/31
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/32
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/33
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/34
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/35
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/36
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/37
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/38
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/39
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/40
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/41
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/42
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/43
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/44
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/45
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/46
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/47
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/48
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/49
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/50
 
 
 
