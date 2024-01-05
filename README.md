@@ -82,7 +82,6 @@
 #EXTINF:-1 group-title="NASIONAL" tvg-id="OChannel.id" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Infinix X6812B Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.144 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://dens.tv
-https://raw.githubusercontent.com/GODRIL01/cadangan/main/indosiar.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
 
 
@@ -136,6 +135,7 @@ http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/26
 https://s.id/mentariHD_shareext-ts
 
 #EXTINF:-1 group-title="LALAK TV" tvg-id="moji.id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png ",INDOSIAR LTV
+https://raw.githubusercontent.com/GODRIL01/cadangan/main/indosiar.m3u8
 http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/10
 https://s.id/indosiarHD_shareext-ts
 
