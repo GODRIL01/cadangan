@@ -169,6 +169,9 @@ https://s.id/1YseN
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="moji.id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ",Moji HT
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://cdn14jtedge.indihometv.com/joss/134/ochannel720/chunklist_w1605979638_b444100_sleng.m3u8?enc=i6rCA2oIrtonp9QSbxA8pw&uid=MjkxYmM0NGJmNmZmNGUwMjE2NmUzZWJmNTFlZjEyZWM=&exp=1704514958
+
+
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
 https://s.id/1YseN
 
