@@ -171,10 +171,6 @@ https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
 https://s.id/1YseN
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="moji.id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ",Moji HT
-https://streaming.indihometv.com/joss/134/ochannel720/playlist.m3u8
-
-
-
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://streaming.indihometv.com/joss/134/ochannel720/playlist.m3u8
 
