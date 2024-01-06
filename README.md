@@ -168,12 +168,12 @@ https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
 https://s.id/1YseN
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="moji.id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ",Moji HT
-https://raw.githubusercontent.com/GODRIL01/cadangan/main/moji.m3u8
+https://streaming.indihometv.com/joss/134/ochannel720/playlist.m3u8
 
 
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cdn14jtedge.indihometv.com/joss/134/ochannel720/chunklist_w1605979638_b444100_sleng.m3u8?enc=i6rCA2oIrtonp9QSbxA8pw&uid=MjkxYmM0NGJmNmZmNGUwMjE2NmUzZWJmNTFlZjEyZWM=&exp=1704514958
+https://streaming.indihometv.com/joss/134/ochannel720/playlist.m3u8
 
 
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
