@@ -82,9 +82,6 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
 #EXTINF:-1 group-title="NASIONAL" tvg-id="OChannel.id" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",Moji
-https://streaming.indihometv.com/joss/134/ochannel720/playlist.m3u8
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Infinix X6812B Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.144 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
@@ -173,11 +170,9 @@ https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
 https://s.id/1YseN
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="moji.id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ",Moji HT
-https://streaming.indihometv.com/joss/134/ochannel720/playlist.m3u8
-
-
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
 https://s.id/1YseN
+https://streaming.indihometv.com/joss/134/ochannel720/playlist.m3u8
 
 
 
