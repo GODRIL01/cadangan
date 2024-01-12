@@ -127,31 +127,10 @@ https://testfunctionlive.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 *********************************************EMTEX**************************************************
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png " group-title="LALAK TV ", MENTARI LTV
-http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/26
-https://s.id/mentariHD_shareext-ts
 
-#EXTINF:-1 group-title="LALAK TV" tvg-id="moji.id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png ",INDOSIAR LTV
-http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/10
-https://s.id/indosiarHD_shareext-ts
-
-#EXTINF:-1 group-title="LALAK TV" tvg-id="moji.id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png ",SCTV LTV
-http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/11
-https://s.id/sctvHD_shareext-ts
-
-#EXTINF:-1 group-title="LALAK TV" tvg-id="moji.id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ",Moji LTV
-http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/22
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="NASIONAL ",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="NASIONAL ",INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
@@ -181,7 +160,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #EXTINF:-1 tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="MOJI",MOJI oxy
 https://playlist-coffee.my.id/oxy/moji.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="HBO",HBO oxy
+https://playlist-coffee.my.id/oxy/hbo.m3u8
 
 https://s.id/1YseN
 https://streaming.indihometv.com/joss/134/ochannel720/playlist.m3u8
