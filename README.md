@@ -372,33 +372,22 @@ https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.m
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/HBO-Family.png" group-title="MOVIES",HBO Family 
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="MOVIES",HBO Signature 
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
 ***********************************************TRANS***********************************************************************
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" group-title="MOVIES",HBO (cbm)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"https://api.thomasandi.my.id/api/cubmu.php"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #KODIPROP:inputstream.adaptive.license_key=https://auto.nyolong-lu-y.workers.dev
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://conn.livetvgo.my.id/cumbu/
 #EXTINF:-1 tvg-id="HBO" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115 " group-title="MOVIES",HBO 
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"https://api.thomasandi.my.id/api/cubmu.php"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #KODIPROP:inputstream.adaptive.license_key=https://auto.nyolong-lu-y.workers.dev
 #EXTINF:-1 tvg-id="HBO HIT" tvg-url="" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/HBO-Hits.png " group-title="MOVIES",HBO  HITS
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
@@ -409,9 +398,12 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://auto.nyolong-lu-y.workers.dev
 #EXTINF:-1 tvg-id="HBO Signature.Id" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115 " group-title="MOVIES",HBO Signature
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+https://cubmu.ceriatv.workers.dev/
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
