@@ -124,7 +124,8 @@ https://testfunctionlive.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 *********************************************EMTEX**************************************************
 #EXTINF:-1 tvg-id="MENTARI.Id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png " group-title="NASIONAL", MENTARI
-https://s.id/mentariHD_shareext-ts
+https://playlist-coffee.my.id/oxy/mentaritv.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
