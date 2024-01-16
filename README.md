@@ -160,9 +160,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #EXTINF:-1 tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="MOJI",MOJI oxy
 https://playlist-coffee.my.id/oxy/moji.m3u8
 
-#EXTINF:-1 tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="HBO",HBO oxy
-https://playlist-coffee.my.id/oxy/HBO.m3u8
-
 https://s.id/1YseN
 https://streaming.indihometv.com/joss/134/ochannel720/playlist.m3u8
 
