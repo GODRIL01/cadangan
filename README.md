@@ -304,19 +304,26 @@ https://v2.siar.us/aditv/livestream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="HBO " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png " group-title="MOVIES ",HBO ID
 #http://myteve.online:8080/Abraham/6b3ca724a0/197972
-https://zozotv.xyz:443/rozila969/abc12345/693|User-Agent=Shareext/5.0
+https://s.id/hbo_shareext-m3u8|User-Agent=Shareext/5.0
+
 
 
 https://s.id/hbo_shareext-m3u8|User-Agent=Shareext/5.0
 https://zozotv.xyz:443/rozila969/abc12345/693
 
 #EXTINF:-1 tvg-id="HBO Family " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png " group-title="MOVIES",HBO FAMILY ID
+#http://myteve.online:8080/Abraham/6b3ca724a0/197055
+https://s.id/hbofam_shareext-m3u8|User-Agent=Shareext/5.0
 https://zozotv.xyz:443/rozila969/abc12345/98
 
 #EXTINF:-1 tvg-id="HBO HIT" tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png " group-title=" MOVIES",HBO HITS ID
+#http://myteve.online:8080/Abraham/6b3ca724a0/196480
+https://s.id/hbohits_shareext-m3u8|User-Agent=Shareext/5.0
 https://zozotv.xyz:443/rozila969/abc12345/97
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png " group-title="MOVIES",HBO SIGNATURE ID
+#http://myteve.online:8080/Abraham/6b3ca724a0/221948
+https://s.id/hbosig_shareext-m3u8|User-Agent=Shareext/5.0
 https://zozotv.xyz:443/rozila969/abc12345/99
 
 
