@@ -79,8 +79,32 @@ no
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 
+*******************************************************OXIGEN*******************************************************
+
+#EXTINF:-1 tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="OXIGEN",MOJI OXY
+https://playlist-coffee.my.id/oxy/moji.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="OXIGEN ",SCTV OXY
+https://playlist-coffee.my.id/oxy/sctv.m3u8
 
 
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="OXIGEN ",INDOSIAR OXY
+https://playlist-coffee.my.id/oxy/indosiar.m3u8
+
+*****************************************HOMETV***********************************************************
+
+#EXTINF:-1 group-title="HOMETV" tvg-id="moji.id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ",Moji HOME TV
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
+
+********************************************INDIHOME*****************************************************
+
+#EXTINF:-1 tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="INDIHOME",MOJI INDIHOME
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
+
+
+**********************************************************************************************************
 
 #EXTM3U 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -149,16 +173,6 @@ http://210.210.155.35/x6bnqe/s/s41/index.m3u8
 https://raw.githubusercontent.com/GODRIL01/cadangan/main/moji.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
 https://s.id/1YseN
-
-#EXTINF:-1 group-title="MOJI" tvg-id="moji.id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ",Moji HOME TV
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
-
-#EXTINF:-1 tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="MOJI",MOJI INDIHOME
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="MOJI",MOJI oxy
-https://playlist-coffee.my.id/oxy/moji.m3u8
 
 https://s.id/1YseN
 https://streaming.indihometv.com/joss/134/ochannel720/playlist.m3u8
