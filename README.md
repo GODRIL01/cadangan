@@ -301,9 +301,13 @@ https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 
 ******************************************************MOVIES**************************************************************
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
+
 #EXTINF:-1 tvg-id="HBO " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png " group-title="MOVIES ",HBO ID
+#http://myteve.online:8080/Abraham/6b3ca724a0/197972
+https://zozotv.xyz:443/rozila969/abc12345/693
+
+
+https://s.id/hbo_shareext-m3u8|User-Agent=Shareext/5.0
 https://zozotv.xyz:443/rozila969/abc12345/693
 
 #EXTINF:-1 tvg-id="HBO Family " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png " group-title="MOVIES",HBO FAMILY ID
