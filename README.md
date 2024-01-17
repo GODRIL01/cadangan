@@ -301,6 +301,18 @@ https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 
 ******************************************************MOVIES**************************************************************
+#EXTINF:-1 tvg-id="HBO " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png " group-title="MOVIES ",HBO ID
+https://zozotv.xyz:443/rozila969/abc12345/693
+
+#EXTINF:-1 tvg-id="HBO Family " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png " group-title="MOVIES",HBO FAMILY ID
+https://zozotv.xyz:443/rozila969/abc12345/98
+
+#EXTINF:-1 tvg-id="HBO HIT" tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png " group-title=" MOVIES",HBO HITS ID
+https://zozotv.xyz:443/rozila969/abc12345/97
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png " group-title="MOVIES",HBO SIGNATURE ID
+https://zozotv.xyz:443/rozila969/abc12345/99
+
 
 
 ****************************************************THI********************************************************************
