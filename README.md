@@ -103,6 +103,23 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 
+****************************************VIDIO*******************************************
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="VIDIO",Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
+
+
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="VIDIO" tvg-url="https://bit.ly/JejeVisionEPG",SCTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=204&type=hls
+
+
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="VIDIO" tvg-url="https://bit.ly/JejeVisionEPG",Indosiar HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
+
+
+
 
 **********************************************************************************************************
 
