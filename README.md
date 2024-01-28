@@ -120,9 +120,17 @@ https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDOSIAR", Indosiar
+https://link.zozotv.xyz:443/rozila969/abc12345/40
+https://link.zozotv.xyz:443/rozila969/abc12345/41
+https://link.zozotv.xyz:443/rozila969/abc12345/42
+https://link.zozotv.xyz:443/rozila969/abc12345/43
+https://link.zozotv.xyz:443/rozila969/abc12345/44
 https://link.zozotv.xyz:443/rozila969/abc12345/45
-
-
+https://link.zozotv.xyz:443/rozila969/abc12345/46
+https://link.zozotv.xyz:443/rozila969/abc12345/47
+https://link.zozotv.xyz:443/rozila969/abc12345/48
+https://link.zozotv.xyz:443/rozila969/abc12345/49
+https://link.zozotv.xyz:443/rozila969/abc12345/50
 
 **********************************************************************************************************
 
