@@ -119,6 +119,9 @@ https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=204&type=hls
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDOSIAR", Indosiar
+https://link.zozotv.xyz:443/rozila969/abc12345/45
+
 
 
 **********************************************************************************************************
