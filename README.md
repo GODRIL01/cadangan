@@ -119,404 +119,231 @@ https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=204&type=hls
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDOSIAR", Indosiar
-https://link.zozotv.xyz:443/rozila969/abc12345/00
+#EXTINF:-1 tvg-logo="" group-title="LOCAL", TRANSTV
+https://link.zozotv.xyz:443/rozila969/abc12345/43
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 2
-https://link.zozotv.xyz:443/rozila969/abc12345/02
+#EXTINF:-1 tvg-logo="" group-title="LOCAL", TRANS7
+https://link.zozotv.xyz:443/rozila969/abc12345/44
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 3
-https://link.zozotv.xyz:443/rozila969/abc12345/03
+#EXTINF:-1 tvg-logo="" group-title="LOCAL", INDOSIAR
+https://link.zozotv.xyz:443/rozila969/abc12345/45
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 4
+#EXTINF:-1 tvg-logo="" group-title="LOCAL", SCTV
+https://link.zozotv.xyz:443/rozila969/abc12345/46
+
+#EXTINF:-1 tvg-logo="" group-title="LOCAL", RCTI
+https://link.zozotv.xyz:443/rozila969/abc12345/47
+
+#EXTINF:-1 tvg-logo="" group-title="LOCAL", GTV
+https://link.zozotv.xyz:443/rozila969/abc12345/48
+
+#EXTINF:-1 tvg-logo="" group-title="LOCAL", MNCTV
+https://link.zozotv.xyz:443/rozila969/abc12345/49
+
+#EXTINF:-1 tvg-logo="" group-title="LOCAL", NET
+https://link.zozotv.xyz:443/rozila969/abc12345/50
+
+#EXTINF:-1 tvg-logo="" group-title="LOCAL", ANTV
+https://link.zozotv.xyz:443/rozila969/abc12345/51
+
+#EXTINF:-1 tvg-logo="" group-title="LOCAL", TV ONE
+https://link.zozotv.xyz:443/rozila969/abc12345/142
+
+#EXTINF:-1 tvg-logo="" group-title="LOCAL", KOMPAS
+https://link.zozotv.xyz:443/rozila969/abc12345/143
+
+#EXTINF:-1 tvg-logo="" group-title="LOCAL", METRO
+https://link.zozotv.xyz:443/rozila969/abc12345/144
+
+
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", flix HD
 https://link.zozotv.xyz:443/rozila969/abc12345/04
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 5
-https://link.zozotv.xyz:443/rozila969/abc12345/05
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 6
-https://link.zozotv.xyz:443/rozila969/abc12345/06
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 7
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", CINEMAX
 https://link.zozotv.xyz:443/rozila969/abc12345/07
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 8
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", GALAXY
 https://link.zozotv.xyz:443/rozila969/abc12345/08
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 9
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", GALAXY PREMIUM
 https://link.zozotv.xyz:443/rozila969/abc12345/09
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 10
-https://link.zozotv.xyz:443/rozila969/abc12345/10
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 11
-https://link.zozotv.xyz:443/rozila969/abc12345/11
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 12
-https://link.zozotv.xyz:443/rozila969/abc12345/12
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 13
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", TV1
 https://link.zozotv.xyz:443/rozila969/abc12345/13
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 14
-https://link.zozotv.xyz:443/rozila969/abc12345/14
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 15
-https://link.zozotv.xyz:443/rozila969/abc12345/15
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 16
-https://link.zozotv.xyz:443/rozila969/abc12345/16
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 17
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", TV3
 https://link.zozotv.xyz:443/rozila969/abc12345/17
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 18
-https://link.zozotv.xyz:443/rozila969/abc12345/18
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 19
-https://link.zozotv.xyz:443/rozila969/abc12345/19
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 20
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", DIDIK TV
 https://link.zozotv.xyz:443/rozila969/abc12345/20
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 21
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", THE GOOD DETECTIV2
 https://link.zozotv.xyz:443/rozila969/abc12345/21
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 22
-https://link.zozotv.xyz:443/rozila969/abc12345/22
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 23
-https://link.zozotv.xyz:443/rozila969/abc12345/23
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 24
-https://link.zozotv.xyz:443/rozila969/abc12345/24
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 25
-https://link.zozotv.xyz:443/rozila969/abc12345/25
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 26
-https://link.zozotv.xyz:443/rozila969/abc12345/26
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 27
-https://link.zozotv.xyz:443/rozila969/abc12345/27
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 28
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ASTRO AWANI
 https://link.zozotv.xyz:443/rozila969/abc12345/28
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 29
-https://link.zozotv.xyz:443/rozila969/abc12345/29
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 30
-https://link.zozotv.xyz:443/rozila969/abc12345/30
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 31
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ASTRO CERIA
 https://link.zozotv.xyz:443/rozila969/abc12345/31
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 32
-https://link.zozotv.xyz:443/rozila969/abc12345/32
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 33
-https://link.zozotv.xyz:443/rozila969/abc12345/33
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 34
-https://link.zozotv.xyz:443/rozila969/abc12345/34
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 35
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ASTRO WARNA
 https://link.zozotv.xyz:443/rozila969/abc12345/35
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 36
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ASTRO CITRA
 https://link.zozotv.xyz:443/rozila969/abc12345/36
 
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 37
 https://link.zozotv.xyz:443/rozila969/abc12345/37
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 38
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ASTRO AURA
 https://link.zozotv.xyz:443/rozila969/abc12345/38
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 39
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ASTRO RANIA
 https://link.zozotv.xyz:443/rozila969/abc12345/39
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 40
-https://link.zozotv.xyz:443/rozila969/abc12345/40
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 41
-https://link.zozotv.xyz:443/rozila969/abc12345/41
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 42
-https://link.zozotv.xyz:443/rozila969/abc12345/42
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 43
-https://link.zozotv.xyz:443/rozila969/abc12345/43
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 44
-https://link.zozotv.xyz:443/rozila969/abc12345/44
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 45
-https://link.zozotv.xyz:443/rozila969/abc12345/45
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 46
-https://link.zozotv.xyz:443/rozila969/abc12345/46
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 47
-https://link.zozotv.xyz:443/rozila969/abc12345/47
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 48
-https://link.zozotv.xyz:443/rozila969/abc12345/48
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 49
-https://link.zozotv.xyz:443/rozila969/abc12345/49
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 50
-https://link.zozotv.xyz:443/rozila969/abc12345/50
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 51
-https://link.zozotv.xyz:443/rozila969/abc12345/51
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 52
-https://link.zozotv.xyz:443/rozila969/abc12345/52
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 53
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ZEEBIOSKOP
 https://link.zozotv.xyz:443/rozila969/abc12345/53
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 54
-https://link.zozotv.xyz:443/rozila969/abc12345/54
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 55
-https://link.zozotv.xyz:443/rozila969/abc12345/55
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 56
-https://link.zozotv.xyz:443/rozila969/abc12345/56
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 57
-https://link.zozotv.xyz:443/rozila969/abc12345/57
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 58
-https://link.zozotv.xyz:443/rozila969/abc12345/58
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 59
-https://link.zozotv.xyz:443/rozila969/abc12345/59
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 60
-https://link.zozotv.xyz:443/rozila969/abc12345/60
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 61
-https://link.zozotv.xyz:443/rozila969/abc12345/61
 
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 62
 https://link.zozotv.xyz:443/rozila969/abc12345/62
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 63
-https://link.zozotv.xyz:443/rozila969/abc12345/63
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 64
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", CELESTIAL MOVIES
 https://link.zozotv.xyz:443/rozila969/abc12345/64
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 65
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", CCM
 https://link.zozotv.xyz:443/rozila969/abc12345/65
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 66
-https://link.zozotv.xyz:443/rozila969/abc12345/66
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 67
-https://link.zozotv.xyz:443/rozila969/abc12345/67
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 68
-https://link.zozotv.xyz:443/rozila969/abc12345/68
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 69
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ANIMAX
 https://link.zozotv.xyz:443/rozila969/abc12345/69
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 70
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ANIPLUS
 https://link.zozotv.xyz:443/rozila969/abc12345/70
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 71
-https://link.zozotv.xyz:443/rozila969/abc12345/71
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 72
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", GEM
 https://link.zozotv.xyz:443/rozila969/abc12345/72
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 73
-https://link.zozotv.xyz:443/rozila969/abc12345/73
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 74
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ONE
 https://link.zozotv.xyz:443/rozila969/abc12345/74
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 75
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", TVN
 https://link.zozotv.xyz:443/rozila969/abc12345/75
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 76
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", TVN MOVIES
 https://link.zozotv.xyz:443/rozila969/abc12345/76
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 77
-https://link.zozotv.xyz:443/rozila969/abc12345/77
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 78
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", KBS WORLD
 https://link.zozotv.xyz:443/rozila969/abc12345/78
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 79
-https://link.zozotv.xyz:443/rozila969/abc12345/79
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 80
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", K+
 https://link.zozotv.xyz:443/rozila969/abc12345/80
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 81
-https://link.zozotv.xyz:443/rozila969/abc12345/81
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 82
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", KIX
 https://link.zozotv.xyz:443/rozila969/abc12345/82
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 83
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ZOOMO
 https://link.zozotv.xyz:443/rozila969/abc12345/83
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 84
-https://link.zozotv.xyz:443/rozila969/abc12345/84
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 85
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", HGTV
 https://link.zozotv.xyz:443/rozila969/abc12345/85
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 86
-https://link.zozotv.xyz:443/rozila969/abc12345/86
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 87
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", LIFETIME
 https://link.zozotv.xyz:443/rozila969/abc12345/87
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 88
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ROCK ENTERTAIMENT
 https://link.zozotv.xyz:443/rozila969/abc12345/88
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 89
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ROCK ACTION
 https://link.zozotv.xyz:443/rozila969/abc12345/89
 
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 90
 https://link.zozotv.xyz:443/rozila969/abc12345/90
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 91
-https://link.zozotv.xyz:443/rozila969/abc12345/91
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 92
-https://link.zozotv.xyz:443/rozila969/abc12345/92
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 93
-https://link.zozotv.xyz:443/rozila969/abc12345/93
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 94
-https://link.zozotv.xyz:443/rozila969/abc12345/94
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 95
-https://link.zozotv.xyz:443/rozila969/abc12345/95
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 96
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", HBO
 https://link.zozotv.xyz:443/rozila969/abc12345/96
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 97
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", HBO HIT
 https://link.zozotv.xyz:443/rozila969/abc12345/97
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 98
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", HBO FAMILY
 https://link.zozotv.xyz:443/rozila969/abc12345/98
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 99
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", HBO SIGNATURE
 https://link.zozotv.xyz:443/rozila969/abc12345/99
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 100
-https://link.zozotv.xyz:443/rozila969/abc12345/100
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 101
-https://link.zozotv.xyz:443/rozila969/abc12345/101
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 102
-https://link.zozotv.xyz:443/rozila969/abc12345/102
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 103
-https://link.zozotv.xyz:443/rozila969/abc12345/103
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 104
-https://link.zozotv.xyz:443/rozila969/abc12345/104
 
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 105
 https://link.zozotv.xyz:443/rozila969/abc12345/105
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 106
-https://link.zozotv.xyz:443/rozila969/abc12345/106
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 107
-https://link.zozotv.xyz:443/rozila969/abc12345/107
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 108
-https://link.zozotv.xyz:443/rozila969/abc12345/108
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 109
-https://link.zozotv.xyz:443/rozila969/abc12345/109
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 110
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", HITS
 https://link.zozotv.xyz:443/rozila969/abc12345/110
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 111
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", CINEMA WORLD
 https://link.zozotv.xyz:443/rozila969/abc12345/111
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 112
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", THRILL
 https://link.zozotv.xyz:443/rozila969/abc12345/112
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 113
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", IMC
 https://link.zozotv.xyz:443/rozila969/abc12345/113
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 114
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", FLIK
 https://link.zozotv.xyz:443/rozila969/abc12345/114
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 115
-https://link.zozotv.xyz:443/rozila969/abc12345/115
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 116
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", LOVE NATURE
 https://link.zozotv.xyz:443/rozila969/abc12345/116
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 117
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", BBC EART
 https://link.zozotv.xyz:443/rozila969/abc12345/117
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 118
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", DMAX
 https://link.zozotv.xyz:443/rozila969/abc12345/118
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 119
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", HISTORY
 https://link.zozotv.xyz:443/rozila969/abc12345/119
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 120
-https://link.zozotv.xyz:443/rozila969/abc12345/120
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 121
-https://link.zozotv.xyz:443/rozila969/abc12345/121
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 122
-https://link.zozotv.xyz:443/rozila969/abc12345/122
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 123
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ANIMAL PLANET
 https://link.zozotv.xyz:443/rozila969/abc12345/123
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 124
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", DISCOVERY
 https://link.zozotv.xyz:443/rozila969/abc12345/124
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 125
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ASIA DISCOVERY
 https://link.zozotv.xyz:443/rozila969/abc12345/125
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 126
-https://link.zozotv.xyz:443/rozila969/abc12345/126
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 127
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", AFN
 https://link.zozotv.xyz:443/rozila969/abc12345/127
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 128
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", TLC
 https://link.zozotv.xyz:443/rozila969/abc12345/128
 
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 129
 https://link.zozotv.xyz:443/rozila969/abc12345/129
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 130
-https://link.zozotv.xyz:443/rozila969/abc12345/130
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 131
-https://link.zozotv.xyz:443/rozila969/abc12345/131
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 132
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", CARTON NETWORK
 https://link.zozotv.xyz:443/rozila969/abc12345/132
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 133
-https://link.zozotv.xyz:443/rozila969/abc12345/133
 
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 134
 https://link.zozotv.xyz:443/rozila969/abc12345/134
@@ -524,104 +351,70 @@ https://link.zozotv.xyz:443/rozila969/abc12345/134
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 135
 https://link.zozotv.xyz:443/rozila969/abc12345/135
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 136
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", NICKELODEON
 https://link.zozotv.xyz:443/rozila969/abc12345/136
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 137
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", NICKJR
 https://link.zozotv.xyz:443/rozila969/abc12345/137
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 138
-https://link.zozotv.xyz:443/rozila969/abc12345/138
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 139
-https://link.zozotv.xyz:443/rozila969/abc12345/139
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 140
-https://link.zozotv.xyz:443/rozila969/abc12345/140
 
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 141
 https://link.zozotv.xyz:443/rozila969/abc12345/141
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 142
-https://link.zozotv.xyz:443/rozila969/abc12345/142
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 143
-https://link.zozotv.xyz:443/rozila969/abc12345/143
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 144
-https://link.zozotv.xyz:443/rozila969/abc12345/144
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 145
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", SEA TODAY
 https://link.zozotv.xyz:443/rozila969/abc12345/145
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 146
-https://link.zozotv.xyz:443/rozila969/abc12345/146
 
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 147
 https://link.zozotv.xyz:443/rozila969/abc12345/147
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 148
-https://link.zozotv.xyz:443/rozila969/abc12345/148
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 149
-https://link.zozotv.xyz:443/rozila969/abc12345/149
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 150
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", DW
 https://link.zozotv.xyz:443/rozila969/abc12345/150
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 151
-https://link.zozotv.xyz:443/rozila969/abc12345/151
 
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 152
 https://link.zozotv.xyz:443/rozila969/abc12345/152
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 153
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", SUKAN
 https://link.zozotv.xyz:443/rozila969/abc12345/153
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 154
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ASTRO ARENA
 https://link.zozotv.xyz:443/rozila969/abc12345/154
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 155
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ASTRO SUPERSPORTS
 https://link.zozotv.xyz:443/rozila969/abc12345/155
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 156
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ASTRO SUPERSPORTS2
 https://link.zozotv.xyz:443/rozila969/abc12345/156
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 157
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ASTRO SUPERSPORTS3
 https://link.zozotv.xyz:443/rozila969/abc12345/157
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 158
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", ASTRO SUPERSPORTS4
 https://link.zozotv.xyz:443/rozila969/abc12345/158
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 159
-https://link.zozotv.xyz:443/rozila969/abc12345/159
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 160
-https://link.zozotv.xyz:443/rozila969/abc12345/160
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 161
-https://link.zozotv.xyz:443/rozila969/abc12345/161
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 162
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS", BEIN SPORTS1
 https://link.zozotv.xyz:443/rozila969/abc12345/162
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 163
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS", BEIN SPORTS3
 https://link.zozotv.xyz:443/rozila969/abc12345/163
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 164
+#EXTINF:-1 tvg-logo="" group-title="LOCAL", SUPERSTARS
 https://link.zozotv.xyz:443/rozila969/abc12345/164
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 165
+#EXTINF:-1 tvg-logo="" group-title="LOCAL", SUPERSTARS1
 https://link.zozotv.xyz:443/rozila969/abc12345/165
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 166
+#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", GOLF
 https://link.zozotv.xyz:443/rozila969/abc12345/166
 
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 167
 https://link.zozotv.xyz:443/rozila969/abc12345/167
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 168
-https://link.zozotv.xyz:443/rozila969/abc12345/168
 
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 169
 https://link.zozotv.xyz:443/rozila969/abc12345/169
@@ -641,93 +434,6 @@ https://link.zozotv.xyz:443/rozila969/abc12345/173
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 174
 https://link.zozotv.xyz:443/rozila969/abc12345/174
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 175
-https://link.zozotv.xyz:443/rozila969/abc12345/175
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 176
-https://link.zozotv.xyz:443/rozila969/abc12345/176
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 177
-https://link.zozotv.xyz:443/rozila969/abc12345/177
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 178
-https://link.zozotv.xyz:443/rozila969/abc12345/178
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 179
-https://link.zozotv.xyz:443/rozila969/abc12345/179
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 180
-https://link.zozotv.xyz:443/rozila969/abc12345/180
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 181
-https://link.zozotv.xyz:443/rozila969/abc12345/181
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 182
-https://link.zozotv.xyz:443/rozila969/abc12345/182
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 183
-https://link.zozotv.xyz:443/rozila969/abc12345/183
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 184
-https://link.zozotv.xyz:443/rozila969/abc12345/184
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 185
-https://link.zozotv.xyz:443/rozila969/abc12345/185
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 186
-https://link.zozotv.xyz:443/rozila969/abc12345/186
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 187
-https://link.zozotv.xyz:443/rozila969/abc12345/187
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 188
-https://link.zozotv.xyz:443/rozila969/abc12345/188
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 189
-https://link.zozotv.xyz:443/rozila969/abc12345/189
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 190
-https://link.zozotv.xyz:443/rozila969/abc12345/190
-
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 191
-https://link.zozotv.xyz:443/rozila969/abc12345/191
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 192
-https://link.zozotv.xyz:443/rozila969/abc12345/192
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 193
-https://link.zozotv.xyz:443/rozila969/abc12345/193
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 194
-https://link.zozotv.xyz:443/rozila969/abc12345/194
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 195
-https://link.zozotv.xyz:443/rozila969/abc12345/195
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 196
-https://link.zozotv.xyz:443/rozila969/abc12345/196
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 197
-https://link.zozotv.xyz:443/rozila969/abc12345/197
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 198
-https://link.zozotv.xyz:443/rozila969/abc12345/198
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 199
-https://link.zozotv.xyz:443/rozila969/abc12345/199
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 200
-https://link.zozotv.xyz:443/rozila969/abc12345/200
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 201
-https://link.zozotv.xyz:443/rozila969/abc12345/201
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 202
-https://link.zozotv.xyz:443/rozila969/abc12345/202
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 203
-https://link.zozotv.xyz:443/rozila969/abc12345/203
 
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 204
 https://link.zozotv.xyz:443/rozila969/abc12345/204
@@ -735,14 +441,10 @@ https://link.zozotv.xyz:443/rozila969/abc12345/204
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 205
 https://link.zozotv.xyz:443/rozila969/abc12345/205
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 206
-https://link.zozotv.xyz:443/rozila969/abc12345/206
 
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 207
 https://link.zozotv.xyz:443/rozila969/abc12345/207
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 208
-https://link.zozotv.xyz:443/rozila969/abc12345/208
 
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 209
 https://link.zozotv.xyz:443/rozila969/abc12345/209
@@ -753,26 +455,12 @@ https://link.zozotv.xyz:443/rozila969/abc12345/210
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 211
 https://link.zozotv.xyz:443/rozila969/abc12345/211
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 212
-https://link.zozotv.xyz:443/rozila969/abc12345/212
 
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 213
 https://link.zozotv.xyz:443/rozila969/abc12345/213
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 214
-https://link.zozotv.xyz:443/rozila969/abc12345/214
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 215
-https://link.zozotv.xyz:443/rozila969/abc12345/215
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 216
-https://link.zozotv.xyz:443/rozila969/abc12345/216
-
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 217
 https://link.zozotv.xyz:443/rozila969/abc12345/217
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 218
-https://link.zozotv.xyz:443/rozila969/abc12345/218
 
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 219
 https://link.zozotv.xyz:443/rozila969/abc12345/219
@@ -789,12 +477,6 @@ https://link.zozotv.xyz:443/rozila969/abc12345/223
 
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 224
 https://link.zozotv.xyz:443/rozila969/abc12345/224
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 225
-https://link.zozotv.xyz:443/rozila969/abc12345/225
-
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 226
-https://link.zozotv.xyz:443/rozila969/abc12345/226
 
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 227
 https://link.zozotv.xyz:443/rozila969/abc12345/227
@@ -820,8 +502,6 @@ https://link.zozotv.xyz:443/rozila969/abc12345/233
 #EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 234
 https://link.zozotv.xyz:443/rozila969/abc12345/234
 
-#EXTINF:-1 tvg-logo="" group-title="INDOSIAR", 235
-https://link.zozotv.xyz:443/rozila969/abc12345/235
 
 **********************************************************************************************************
 
