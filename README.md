@@ -123,6 +123,7 @@ https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 https://s.id/trans7_shareext-m3u8|User-Agent=Shareext/5.0
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL", TRANSTV
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://link.zozotv.xyz:443/rozila969/abc12345/43
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL", TRANS7
