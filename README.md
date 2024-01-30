@@ -80,19 +80,19 @@ no
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 
 
-#EXTINF:-1 group-title="ASTRO" tvg-id="astro.id"tvg-logo=" ",ASTO SUPERSTAR
+#EXTINF:-1 group-title="ASTRO" tvg-id="astro.id"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png ",ASTRO SUPERSTAR
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/26
 
-#EXTINF:-1 group-title="ASTRO" tvg-id="astro.id"tvg-logo=" ",ASTO SUPERSTAR2
+#EXTINF:-1 group-title="ASTRO" tvg-id="astro.id"tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/Astro_Supersport_2_HD.png ",ASTRO SUPERSTAR2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/27
 
-#EXTINF:-1 group-title="ASTRO" tvg-id="astro.id" tvg-logo=" ",ASTRO SUPERSPORT3
+#EXTINF:-1 group-title="ASTRO" tvg-id="astro.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Astro_Supersport_3_HD.png ",ASTRO SUPERSPORT3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
 
-#EXTINF:-1 group-title="ASTRO" tvg-id="astro.id" tvg-logo=" ",ASTRO SUPERSPORT4
+#EXTINF:-1 group-title="ASTRO" tvg-id="astro.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Astro_Supersport_4_HD.png ",ASTRO SUPERSPORT4
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
 
