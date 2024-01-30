@@ -118,6 +118,9 @@ https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=204&type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 
+#EXTINF:-1 tvg-logo="" group-title="LOCAL", TRANSTV2
+#http://myteve.online:8080/Abraham/6b3ca724a0/197972
+https://s.id/trans7_shareext-m3u8|User-Agent=Shareext/5.0
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL", TRANSTV
 https://link.zozotv.xyz:443/rozila969/abc12345/43
