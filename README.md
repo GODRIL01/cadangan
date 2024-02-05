@@ -102,7 +102,7 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
 https://playlist-coffee.my.id/oxy/moji.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="OXIGEN ",SCTV OXY
-https://raw.githubusercontent.com/GODRIL01/cadangan/main/sctv.m3u8
+http://51.159.15.46/3212571066/abc123/351030?token=GhMNBEZcR1gRBVBcV1YCUVQCBAMDVwEJWlZUBgYBVAAHBlcDAVBcUVFEGBoXEhZRBVtrXgVGAgNXVwcHAxQUFhJUFzpcUEdYEV8DCFFQRhhGQl1aBEYCAVVWAAUADgZRWB1HFVxQR1hdE1hUSEQBTBBTRlkACGdUBxBeV1YaDA0UXQlJF1sLPVcDWVkKAkYORgcWG0MNS0BAXFlBX1QaQQNYERdUQABACQhBVAhKRlcLQ1pDEx0aCkAvcxYfGlMbFVQLFlxbC0AJREBLRkpGXRdpRlISEEpVAwtSRhECFFNDHUcIVEw6AVwIWl0HEg1bCkUWDUNVGhxAC1haWkxZET5BDAEXDgsXXwpJ
 https://playlist-coffee.my.id/oxy/sctv.m3u8
 
 
