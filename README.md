@@ -102,6 +102,7 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
 https://playlist-coffee.my.id/oxy/moji.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="OXIGEN ",SCTV OXY
+https://raw.githubusercontent.com/GODRIL01/cadangan/main/sctv.m3u8
 https://playlist-coffee.my.id/oxy/sctv.m3u8
 
 
