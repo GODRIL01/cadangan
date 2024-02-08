@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Unknown 1
+#EXTINF:-1,Unknown TRANS7
 http://103.113.116.150:25461/mtm1/12345/1
 
 #EXTINF:-1,Unknown 2
@@ -26,10 +26,10 @@ http://103.113.116.150:25461/mtm1/12345/8
 #EXTINF:-1,Unknown 9
 http://103.113.116.150:25461/mtm1/12345/9
 
-#EXTINF:-1,Unknown 10
+#EXTINF:-1,Unknown ANTV
 http://103.113.116.150:25461/mtm1/12345/10
 
-#EXTINF:-1,Unknown 11
+#EXTINF:-1,Unknown NET
 http://103.113.116.150:25461/mtm1/12345/11
 
 #EXTINF:-1,Unknown 12
@@ -212,10 +212,10 @@ http://103.113.116.150:25461/mtm1/12345/98
 #EXTINF:-1,Unknown 99
 http://103.113.116.150:25461/mtm1/12345/99
 
-#EXTINF:-1,Unknown 107
+#EXTINF:-1,Unknown CN
 http://103.113.116.150:25461/mtm1/12345/107
 
-#EXTINF:-1,Unknown 112
+#EXTINF:-1,Unknown HOREE
 http://103.113.116.150:25461/mtm1/12345/112
 
 #EXTINF:-1,Unknown 122
