@@ -128,12 +128,6 @@ https://testfunctionlive.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 *********************************************EMTEX**************************************************
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="mentari.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/1920px-Mentari_TV.svg.png ",MENTARI
-http://103.113.116.150:25461/mtm1/12345/25
-
-#EXTINF:-1 group-title="NASIONAL" tvg-id="horee.id" tvg-logo="https://thumbor.prod.vidiocdn.com/t1W0_oq8IaJt6tKUD3T4lwkdLR4=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-f5d7ab.jpg ",HOREE
-http://103.113.116.150:25461/mtm1/12345/112
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="NASIONAL ",SCTV
