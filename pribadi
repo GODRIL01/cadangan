@@ -79,7 +79,11 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 
+
 #EXTM3U 
+#EXTINF:-1 tvg-id="warkop.Id" tvg-logo="http://warkop.digital/wp-content/uploads/2021/02/logowarkop3-white.png " group-title="NASIONAL ",WARKOP
+http://103.113.116.150:25461/mtm1/12345/45
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
