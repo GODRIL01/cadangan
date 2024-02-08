@@ -1,62 +1,70 @@
 #EXTM3U
-#EXTINF:-1,TRANS7
+
+#EXTINF:-1 group-title="TES" tvg-logo="https://i.ibb.co/PzTvs7Z/TRANS-7.png",TRANS 7 
 http://103.113.116.150:25461/mtm1/12345/1
 
-#EXTINF:-1,TRANSTV
+#EXTINF:-1 group-title="TES" tvg-logo="https://i.ibb.co/nDDHQHB/TRANS-TV.png",TRANS TV 
 http://103.113.116.150:25461/mtm1/12345/2
 
-#EXTINF:-1,INDOSIAR
+#EXTINF:-1 group-title="TES" tvg-id="indosiar.id" tvg-logo="https://i.ibb.co/XxV8xpw/INDOSIAR.png", INDOSIAR
 http://103.113.116.150:25461/mtm1/12345/3
 
-#EXTINF:-1,Unknown 4
+#EXTINF:-1 group-title="TES" tvg-logo="https://i.ibb.co/GM8w0n8/SCTV.png",SCTV 
 http://103.113.116.150:25461/mtm1/12345/4
 
-#EXTINF:-1,RCTI
-http://103.113.116.150:25461/mtm1/12345/5
-
-#EXTINF:-1,MNCTV
-http://103.113.116.150:25461/mtm1/12345/6
-
-#EXTINF:-1,GTV
-http://103.113.116.150:25461/mtm1/12345/7
-
-#EXTINF:-1,NEWS
-http://103.113.116.150:25461/mtm1/12345/8
-
-#EXTINF:-1,TV ONE
-http://103.113.116.150:25461/mtm1/12345/9
-
-#EXTINF:-1,Unknown ANTV
-http://103.113.116.150:25461/mtm1/12345/10
-
-#EXTINF:-1,Unknown NET
-http://103.113.116.150:25461/mtm1/12345/11
-
-#EXTINF:-1,Unknown 12
-http://103.113.116.150:25461/mtm1/12345/12
-
-#EXTINF:-1,Unknown 13
-http://103.113.116.150:25461/mtm1/12345/13
-
-#EXTINF:-1,Unknown 14
-http://103.113.116.150:25461/mtm1/12345/14
-
-#EXTINF:-1,Unknown 15
+#EXTINF:0 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="TES ",moji
 http://103.113.116.150:25461/mtm1/12345/15
 
-#EXTINF:-1,Unknown 16
+#EXTINF:-1 group-title="TES" tvg-logo=" ",MENTARI
+http://103.113.116.150:25461/mtm1/12345/25
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-url="" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png" group-title="TES",RCTI 
+http://103.113.116.150:25461/mtm1/12345/5
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="" tvg-logo="https://i.ibb.co/kh2CnjZ/MNCTV.png" group-title="TES",MNC TV
+http://103.113.116.150:25461/mtm1/12345/6
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-url="" tvg-logo="https://i.ibb.co/phKDkd9/GTV.png" group-title="TES",GTV 
+http://103.113.116.150:25461/mtm1/12345/7
+
+#EXTINF:-1 group-title="TES" tvg-id="iNews.id" tvg-url="" tvg-logo="https://i.ibb.co/pxZpRhV/INEWS-TV.png",iNews 
+http://103.113.116.150:25461/mtm1/12345/8
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-url="" tvg-logo="https://i.ibb.co/H2dxzPn/TV-ONE.png" group-title="TES",TV ONE 
+http://103.113.116.150:25461/mtm1/12345/9
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co/QM6VXd5/ANTV.png" group-title="TES",ANTV 
+http://103.113.116.150:25461/mtm1/12345/10
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPhJPmD/NET-TV.png" group-title="TES", NET TV 
+http://103.113.116.150:25461/mtm1/12345/11
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png" group-title="TES", METRO TV 
+http://103.113.116.150:25461/mtm1/12345/12
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TES" tvg-logo="https://i.ibb.co/fYxtwRX/KOMPAS-TV.png", KOMPAS TV 
+http://103.113.116.150:25461/mtm1/12345/13
+
+#EXTINF:0 tvg-id="RTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rtv.png " group-title="TES ",RTV
+http://103.113.116.150:25461/mtm1/12345/14
+
+
+#EXTINF:-1 tvg-logo=" " tvg-name="HBO" group-title="Movies2",HBO
 http://103.113.116.150:25461/mtm1/12345/16
 
-#EXTINF:-1,Unknown 117
+#EXTINF:-1 tvg-logo=" " tvg-name="HBO" group-title="Movies2",HBO HIT
 http://103.113.116.150:25461/mtm1/12345/17
 
 #EXTINF:-1,Unknown 18
+#EXTINF:-1 tvg-logo=" " tvg-name="HBO" group-title="Movies2",HBO SIGNATURE
 http://103.113.116.150:25461/mtm1/12345/18
 
-#EXTINF:-1,CINEMAX
+
+#EXTINF:-1 tvg-logo=" " tvg-name=" " group-title="Movies2",CINEMAX
 http://103.113.116.150:25461/mtm1/12345/20
 
-#EXTINF:-1,IMC
+
+#EXTINF:-1 tvg-logo=" " tvg-name=" " group-title="Movies2",IMC
 http://103.113.116.150:25461/mtm1/12345/21
 
 #EXTINF:-1,FLIK
@@ -68,8 +76,6 @@ http://103.113.116.150:25461/mtm1/12345/23
 #EXTINF:-1,WB
 http://103.113.116.150:25461/mtm1/12345/24
 
-#EXTINF:-1,MENTARI
-http://103.113.116.150:25461/mtm1/12345/25
 
 #EXTINF:-1,ANIPLUS
 http://103.113.116.150:25461/mtm1/12345/26
