@@ -101,6 +101,7 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
 *******************************************************OXIGEN*******************************************************
 
 #EXTINF:-1 tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="OXIGEN",MOJI OXY
+http://xtv.ooo:8080/3212571066/abc123/350997
 https://playlist-coffee.my.id/oxy/moji.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="OXIGEN ",SCTV OXY
