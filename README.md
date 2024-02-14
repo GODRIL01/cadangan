@@ -79,7 +79,14 @@ no
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 
+#EXTINF:-1 group-title="MTM" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport
+http://103.113.116.150:25461/mtm1/12345/47
 
+#EXTINF:-1 group-title="MTM" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport2.my" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Super Sport 2
+http://103.113.116.150:25461/mtm1/12345/48
+
+#EXTINF:-1 group-title="MTM" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport3.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Super Sport 3
+http://103.113.116.150:25461/mtm1/12345/49
 
 
 #EXTINF:-1 group-title="ASTRO" tvg-id="astro.id"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png ",ASTRO SUPERSTAR
