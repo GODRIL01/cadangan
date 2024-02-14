@@ -90,7 +90,7 @@ http://103.113.116.150:25461/mtm1/12345/48
 #EXTINF:-1 group-title="MTM" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport3.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Super Sport 3
 http://103.113.116.150:25461/mtm1/12345/49
 
-#EXTINF:-1 group-title="SPORTS" tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png ",ASTRO SUPERSPORT4
+#EXTINF:-1 group-title="MTM" tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png ",ASTRO SUPERSPORT4
 http://103.113.116.150:25461/mtm1/12345/50
 
 
