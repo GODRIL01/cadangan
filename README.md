@@ -417,15 +417,11 @@ https://link.zozotv.xyz:443/rozila969/abc12345/99
 http://103.113.116.150:25461/mtm1/12345/19
 https://link.zozotv.xyz:443/rozila969/abc12345/98
 
-
+***************************************************
 
 
 #EXTINF:-1 tvg-id="HBO " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png " group-title="MOVIES ",HBO ID
 #http://myteve.online:8080/Abraham/6b3ca724a0/197972
-https://s.id/hbo_shareext-m3u8|User-Agent=Shareext/5.0
-
-
-
 https://s.id/hbo_shareext-m3u8|User-Agent=Shareext/5.0
 https://zozotv.xyz:443/rozila969/abc12345/693
 
@@ -446,7 +442,7 @@ https://zozotv.xyz:443/rozila969/abc12345/99
 
 
 
-****************************************************THI********************************************************************
+****************************************************HBO TH**********************************************
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="MOVIES",HBO TH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
