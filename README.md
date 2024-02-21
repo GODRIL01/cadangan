@@ -102,7 +102,7 @@ http://103.113.116.150:25461/mtm1/12345/3
 http://103.113.116.150:25461/mtm1/12345/4
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://i.imgur.com/S8YTgXC.jpg" group-title="MTI", Moji
-http://103.113.116.150:25461/mtm1/12345/5
+http://103.113.116.150:25461/mtm1/12345/15
 
 
 
