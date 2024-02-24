@@ -450,14 +450,14 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-########################################################################################################
+####################################### MTI #################################################################
 
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png" tvg-id="HBO.id" tvg-name="HBO " group-title="HBO MTI", HBO 
 http://103.113.116.150:25461/mtm1/12345/16
 https://link.zozotv.xyz:443/rozila969/abc12345/96
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="HBO MTI", HBO HitS
-http://iptvtree.net:8080/F26646/f950f250/211948
+http://iptvtree.net:8080/F26646/f950f250/2219750
 http://103.113.116.150:25461/mtm1/12345/17
 https://link.zozotv.xyz:443/rozila969/abc12345/97
 
