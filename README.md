@@ -453,12 +453,11 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 ########################################################################################################
 
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png" tvg-id="HBO.id" tvg-name="HBO " group-title="HBO MTI", HBO 
-http://iptvtree.net:8080/F26646/f950f250/221946
 http://103.113.116.150:25461/mtm1/12345/16
 https://link.zozotv.xyz:443/rozila969/abc12345/96
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="HBO MTI", HBO HitS
-http://iptvtree.net:8080/F26646/f950f250/221947
+http://iptvtree.net:8080/F26646/f950f250/211948
 http://103.113.116.150:25461/mtm1/12345/17
 https://link.zozotv.xyz:443/rozila969/abc12345/97
 
@@ -468,7 +467,6 @@ http://103.113.116.150:25461/mtm1/12345/18
 https://link.zozotv.xyz:443/rozila969/abc12345/99
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="HBO MTI", HBO Family
-http://iptvtree.net:8080/F26646/f950f250/221949
 http://103.113.116.150:25461/mtm1/12345/19
 https://link.zozotv.xyz:443/rozila969/abc12345/98
 
