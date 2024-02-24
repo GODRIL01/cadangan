@@ -149,6 +149,7 @@ http://51.159.15.46/3212571066/abc123/351030?token=GhMNBEZcR1gRBVBcV1YCUVQCBAMDV
 https://playlist-coffee.my.id/oxy/sctv.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="OXIGEN ",INDOSIAR OXY
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://51.159.15.46/3212571066/abc123/350972?token=GhMNBEZcR1gRVAYJVANTA1cEVgVSBloJUF4DUVdZDlBWBgZWU1FQWwFEGBoXEhZRBVtrXgVGAgNXVg4DARQUFhJUFzpcUEdYEV8DCFFQRhhGQl1aBEYCAVVWAAUADgRQWB1HFVxQR1gRUwYAUlJGGEZTTEMEFlZRDjlTUUVRVQZDCwsQWVhJQFwIa1wBCwVaABQOFVBGFBILFUcWCVZDDw0dRwdcQBcDRwMWAkZXXQNRFBgVAgtNXhYUThYJGn8nQx1HAE1AAAxAD1tWRlxGQBcUGBUIF2dCBxVDRlZZWwYTE19HBRZJQF4HTGcHCQpaAVVAXg4KSxJYRAYWHxpbDA9YEQpHaxULV0QOGlZRUARdFEk=
 https://playlist-coffee.my.id/oxy/indosiar.m3u8
 
@@ -209,7 +210,7 @@ https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
 
 
 
-**********************************************************************************************************
+**🇮🇩🇮🇩🇮🇩********************************************************************************************************
 
 #EXTM3U 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
