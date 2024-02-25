@@ -179,6 +179,20 @@ https://playlist-coffee.my.id/oxy/indosiar.m3u8
 
 *****************************************HOMETV***********************************************************
 
+#EXTINF:-1 group-title="HOME TV" tvg-id="moji.id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ",Moji HOME TV 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/23
+
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="HOME TV",INDOSIAR HOME TV 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/94
+
+#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="HOME TV",SCTV HOME TV 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/95
+
+
+
 #EXTINF:-1 group-title="HOME TV" tvg-id="moji.id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ",Moji HOME TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
