@@ -462,7 +462,7 @@ https://v2.siar.us/aditv/livestream/chunks.m3u8
 #EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO.jpg",HBO (Cubmu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTGRP:HBO Cubmu
