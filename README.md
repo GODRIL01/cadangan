@@ -959,7 +959,7 @@ https://testfunctionlive.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #EXTINF:-1 tvg-id="Love Nature.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/Love-Nature.png " group-title="DOCUMENTARY ",Love Nature
 https://testfunctionlive.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-*************************************************Sports*******************************************************************
+************************************************* SPORTS *************************************************************
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1045,31 +1045,33 @@ https://sport.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https:/
 #EXTVLCOPT:http-user-agent=NontonTV/2.6(Android11)
 https://sport.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
   
-#EXTINF:-1 tvg-logo=" https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="SPORTS ",True Premiere 1
+#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/9FJknMK.png",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
  
-#EXTINF:-1 tvg-logo=" https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="SPORTS ",True Premiere 2
+#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/yS94g00.png",True Premier Football 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
  
-#EXTINF:-1 tvg-logo=" https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-3-th.png" group-title="SPORTS ",True Premiere 3
+#EXTINF:0 group-title="Sports " tvg-logo="https://i.imgur.com/xBmmgXe.png",True Premier Football 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-4-th.png" group-title="SPORTS ",True Premiere 4
+#EXTINF:0 group-title="Sports " tvg-logo="https://i.imgur.com/HOfAIeF.png",True Premier Football 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
 #https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-5-th.png " group-title="SPORTS ", True Premiere 5
+#EXTINF:0 group-title="Sports " tvg-logo="https://i.imgur.com/IAvYAOR.png",True Premier Football 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
+
+
 
 ******************************************************News****************************************************************  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
