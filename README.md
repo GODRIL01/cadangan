@@ -1353,7 +1353,24 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+
  
+#EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports1 arab
+http://bddw16.yacinelivetv.com/live/918454578001/index.m3u8?t=-GYSdhkEOOqTtftHNRG23g&e=1709123792
+
+bein2
+#EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports2 arab
+http://bddw13.yacinelivetv.com/live/69854211/index.m3u8?t=gskQNK_6DjviwE8-bllyXw&e=1709123938
+
+
+#EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports3 arab
+http://bddw16.yacinelivetv.com/live/645587700/index.m3u8?t=8efFPaO8IhiS1KkGRsUs0w&e=1709124037
+
+#EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports4 arab
+http://bddw21.yacinelivetv.com/live/9787488847/index.m3u8?t=jfodPt2Wtbk9HZJ1BELu3g&e=1709124125
+
+#EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports5 arab
+http://bddw14.yacinelivetv.com/live/610303030/index.m3u8?t=b_l2fOZnrSSC8RaDbRZlbg&e=1709124202
 
 
  
