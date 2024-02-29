@@ -1363,13 +1363,13 @@ http://re140.offset-shop.store/live/69854211/index.m3u8?t=Lk2UgukshkEi8SCqI6U45Q
 
 
 #EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports3 arab
-http://bddw16.yacinelivetv.com/live/645587700/index.m3u8?t=8efFPaO8IhiS1KkGRsUs0w&e=1709124037
+http://re140.offset-shop.store/live/645587700/index.m3u8?t=VOfOlpbTC9Qmaf5W0iPW0g&e=1709204283
 
 #EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports4 arab
-http://bddw21.yacinelivetv.com/live/9787488847/index.m3u8?t=jfodPt2Wtbk9HZJ1BELu3g&e=1709124125
+http://re140.offset-shop.store/live/9787488847/index.m3u8?t=tzkWzCN-JmyMsmcu9FUpZg&e=1709204375
 
 #EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports5 arab
-http://bddw14.yacinelivetv.com/live/610303030/index.m3u8?t=b_l2fOZnrSSC8RaDbRZlbg&e=1709124202
+http://re140.offset-shop.store/live/610303030/index.m3u8?t=_ztcNg5eHLZQElipnTnncQ&e=1709204450
 
 
  
