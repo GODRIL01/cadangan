@@ -1356,6 +1356,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
  
 #EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports1 arab
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://raw.githubusercontent.com/GODRIL01/cadangan/main/beinsport.m3u8
 
 bein2
