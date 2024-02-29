@@ -1359,7 +1359,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 http://re140.offset-shop.store/live/918454578001/index.m3u8?t=-7ZwiZ_bWBQ4guzYjq4JRQ&e=1709203832
 
 #EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports2 arab
-http://bddw13.yacinelivetv.com/live/69854211/index.m3u8?t=gskQNK_6DjviwE8-bllyXw&e=1709123938
+http://re140.offset-shop.store/live/69854211/index.m3u8?t=Lk2UgukshkEi8SCqI6U45Q&e=1709204105
 
 
 #EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports3 arab
