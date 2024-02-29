@@ -83,7 +83,7 @@ no
 #EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO.jpg",HBO (Cubmu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aax.amazon-adsystem.com/e/msdk/ads
+#KODIPROP:inputstream.adaptive.license_key=https://aax-fe-sin.amazon-adsystem.com/x/px/p/RP0sdd5flwxCt3N6r8gydwwAAAGN9NmCYAUAAA-qAgBhcHNfdHhuX2JpZDEgICBhcHNfdHhuX2ltcDEgICA4CXBg/%7B%22c%22%3A%22dtbm%22%2C%22dabtw%22%3A515%2C%22dapw%22%3A1%7D
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 https://cubum.iptvgo.workers.dev
