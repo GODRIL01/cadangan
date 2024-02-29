@@ -1356,6 +1356,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
  
 #EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports1 arab
+http://re140.offset-shop.store/live/918454578001/index.m3u8?t=Rwqhh96uKGoiYdHf6wTpBQ&e=1709223230
 http://re140.offset-shop.store/live/918454578001/index.m3u8?t=-7ZwiZ_bWBQ4guzYjq4JRQ&e=1709203832
 
 #EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports2 arab
