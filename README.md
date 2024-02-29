@@ -1356,7 +1356,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
  
 #EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports1 arab
-http://bddw16.yacinelivetv.com/live/918454578001/index.m3u8?t=-GYSdhkEOOqTtftHNRG23g&e=1709123792
+https://raw.githubusercontent.com/GODRIL01/cadangan/main/beinsport.m3u8
 
 bein2
 #EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports2 arab
