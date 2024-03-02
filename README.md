@@ -268,14 +268,17 @@ http://103.113.116.150:25461/mtm1/12345/50
 
 ################################## MTI EMTEX #######################################################
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="MTI", Indosiar (Digital)
-http://103.113.116.150:25461/mtm1/12345/3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="MTI", Indosiar 
+http://103.113.116.150:25461/mtm1/12345/19
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9hqFKAj.png" group-title="MTI" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
-http://103.113.116.150:25461/mtm1/12345/4
+http://103.113.116.150:25461/mtm1/12345/20
+
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://i.imgur.com/S8YTgXC.jpg" group-title="MTI", Moji
-http://103.113.116.150:25461/mtm1/12345/15
+http://103.113.116.150:25461/mtm1/12345/31
+
 
 
 
