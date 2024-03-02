@@ -80,20 +80,45 @@ no
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",1
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",21
 http://103.113.116.150:25461/mtm1/12345/1
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",2
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",22
 http://103.113.116.150:25461/mtm1/12345/2
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",3
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",23
 http://103.113.116.150:25461/mtm1/12345/3
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",4
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",24
 http://103.113.116.150:25461/mtm1/12345/4
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",5
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",25
 http://103.113.116.150:25461/mtm1/12345/5
+
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",26
+http://103.113.116.150:25461/mtm1/12345/11
+
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",27
+http://103.113.116.150:25461/mtm1/12345/11
+
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",28
+http://103.113.116.150:25461/mtm1/12345/11
+
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",29
+http://103.113.116.150:25461/mtm1/12345/11
+
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",30
+http://103.113.116.150:25461/mtm1/12345/11
+
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",31
+http://103.113.116.150:25461/mtm1/12345/11
+
 
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",RCTI
 http://103.113.116.150:25461/mtm1/12345/6
@@ -109,9 +134,6 @@ http://103.113.116.150:25461/mtm1/12345/9
 
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",OKTV
 http://103.113.116.150:25461/mtm1/12345/10
-
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",11
-http://103.113.116.150:25461/mtm1/12345/11
 
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",HBO
 http://103.113.116.150:25461/mtm1/12345/12
