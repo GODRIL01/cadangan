@@ -79,108 +79,129 @@ no
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",54
-http://103.113.116.150:25461/mtm1/12345/54
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",67
+http://103.113.116.150:25461/mtm1/12345/67
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",55
-http://103.113.116.150:25461/mtm1/12345/55
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",68
+http://103.113.116.150:25461/mtm1/12345/68
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",56
-http://103.113.116.150:25461/mtm1/12345/56
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",69
+http://103.113.116.150:25461/mtm1/12345/69
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",57
-http://103.113.116.150:25461/mtm1/12345/57
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",70
+http://103.113.116.150:25461/mtm1/12345/70
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",58
-http://103.113.116.150:25461/mtm1/12345/58
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",71
+http://103.113.116.150:25461/mtm1/12345/71
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",72
+http://103.113.116.150:25461/mtm1/12345/72
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",73
+http://103.113.116.150:25461/mtm1/12345/73
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",74
+http://103.113.116.150:25461/mtm1/12345/74
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",75
+http://103.113.116.150:25461/mtm1/12345/75
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",76
+http://103.113.116.150:25461/mtm1/12345/76
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",77
+http://103.113.116.150:25461/mtm1/12345/77
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",78
+http://103.113.116.150:25461/mtm1/12345/78
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",79
+http://103.113.116.150:25461/mtm1/12345/79
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",80
+http://103.113.116.150:25461/mtm1/12345/80
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",81
+http://103.113.116.150:25461/mtm1/12345/81
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",82
+http://103.113.116.150:25461/mtm1/12345/82
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",83
+http://103.113.116.150:25461/mtm1/12345/83
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",84
+http://103.113.116.150:25461/mtm1/12345/84
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",85
+http://103.113.116.150:25461/mtm1/12345/85
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",86
+http://103.113.116.150:25461/mtm1/12345/86
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",87
+http://103.113.116.150:25461/mtm1/12345/87
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",88
+http://103.113.116.150:25461/mtm1/12345/88
 
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",59
-http://103.113.116.150:25461/mtm1/12345/59
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",60
-http://103.113.116.150:25461/mtm1/12345/60
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",61
+
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",TNT SPORTS 1
 http://103.113.116.150:25461/mtm1/12345/61
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",62
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",TNT SPORTS 2
 http://103.113.116.150:25461/mtm1/12345/62
 
-
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",63
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",TNT SPORTS 3
 http://103.113.116.150:25461/mtm1/12345/63
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",64
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",TNT SPORTS 4
 http://103.113.116.150:25461/mtm1/12345/64
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",65
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",kbc | sbs
 http://103.113.116.150:25461/mtm1/12345/65
-
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",IMC
-http://103.113.116.150:25461/mtm1/12345/32
-
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",FLIK
-http://103.113.116.150:25461/mtm1/12345/33
-
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",BIOSKOP
-http://103.113.116.150:25461/mtm1/12345/34
-
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",WB
-http://103.113.116.150:25461/mtm1/12345/35
-
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",MENTARI
-http://103.113.116.150:25461/mtm1/12345/36
-
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",ANIPLUS
-http://103.113.116.150:25461/mtm1/12345/37
-
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",ONE
-http://103.113.116.150:25461/mtm1/12345/38
-
-
 
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",sky sport f1
 http://103.113.116.150:25461/mtm1/12345/50
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",ski sport1
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",sky sports arena
 http://103.113.116.150:25461/mtm1/12345/51
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",ski sport2
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",sky sports 
 http://103.113.116.150:25461/mtm1/12345/52
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",sky sport3
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",sky sports golf
 http://103.113.116.150:25461/mtm1/12345/53
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",sky sports cricket
+http://103.113.116.150:25461/mtm1/12345/56
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",sky sports action
+http://103.113.116.150:25461/mtm1/12345/57
 
 
 
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",TV ONE
 http://103.113.116.150:25461/mtm1/12345/25
 
-
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",ANTV
 http://103.113.116.150:25461/mtm1/12345/26
-
 
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",NET
 http://103.113.116.150:25461/mtm1/12345/27
 
-
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",METRO
 http://103.113.116.150:25461/mtm1/12345/28
-
 
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",KOMPAS
 http://103.113.116.150:25461/mtm1/12345/29
 
-
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",RTV
 http://103.113.116.150:25461/mtm1/12345/30
-
-
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",MOJI
-http://103.113.116.150:25461/mtm1/12345/31
-
 
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",RCTI
 http://103.113.116.150:25461/mtm1/12345/6
@@ -197,8 +218,28 @@ http://103.113.116.150:25461/mtm1/12345/9
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",OKTV
 http://103.113.116.150:25461/mtm1/12345/10
 
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",TRANS7
+http://103.113.116.150:25461/mtm1/12345/17
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",TRANSTV
+http://103.113.116.150:25461/mtm1/12345/18
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",INDOSIAR
+http://103.113.116.150:25461/mtm1/12345/19
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",MENTARI
+http://103.113.116.150:25461/mtm1/12345/36
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",SCTV
+http://103.113.116.150:25461/mtm1/12345/20
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",MOJI
+http://103.113.116.150:25461/mtm1/12345/31
+
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",HBO
 http://103.113.116.150:25461/mtm1/12345/12
+
+*****  MOVIES
 
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",HBO HIT
 http://103.113.116.150:25461/mtm1/12345/13
@@ -212,91 +253,91 @@ http://103.113.116.150:25461/mtm1/12345/15
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",CINEMAX
 http://103.113.116.150:25461/mtm1/12345/16
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",TRANS7
-http://103.113.116.150:25461/mtm1/12345/17
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",IMC
+http://103.113.116.150:25461/mtm1/12345/32
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",TRANSTV
-http://103.113.116.150:25461/mtm1/12345/18
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",FLIK
+http://103.113.116.150:25461/mtm1/12345/33
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",INDOSIAR
-http://103.113.116.150:25461/mtm1/12345/19
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",BIOSKOP
+http://103.113.116.150:25461/mtm1/12345/34
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",SCTV
-http://103.113.116.150:25461/mtm1/12345/20
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",WB
+http://103.113.116.150:25461/mtm1/12345/35
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",ANIPLUS
+http://103.113.116.150:25461/mtm1/12345/37
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",ONE
+http://103.113.116.150:25461/mtm1/12345/38
 
 
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="HBO HM", HBO HitS
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11836
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="HBO HM", HBO Signature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="HBO HT2", HBO Signature
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11835
 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="HBO HT2", HBO HitS
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11836
 
-
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="HBO HM", HBO Family
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="HBO HT2", HBO Family
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11837
 
+#EXTINF:-1 tvg-id="HBO " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png " group-title="HBO HT2 ",HBO 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11838
 
 
 
-****"""""""MTM ASTRO
+************************ ASTRO HT2 NEW
 
-
-#EXTINF:-1 group-title="MTM" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport HM2
+#EXTINF:-1 group-title="MTM" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport HT2
 http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/26
 
 
-#EXTINF:-1 group-title="MTM" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport2.my" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Super Sport 2 HM2
+#EXTINF:-1 group-title="HT2" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport2.my" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Super Sport 2 HT2
 http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/27
 
 
-#EXTINF:-1 group-title="MTM" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport3.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Super Sport 3 HM2
+#EXTINF:-1 group-title="HT2" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport3.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Super Sport 3 HT2
 http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/28
 
 
-#EXTINF:-1 group-title="MTM" tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png ",ASTRO SUPERSPORT4 mtHM2
+#EXTINF:-1 group-title="HT2" tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png ",ASTRO SUPERSPORT4 HT2
 http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/29
 
-
-#EXTINF:-1 group-title="MTM" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport mti
+**************************** ASTRO MTI 
+#EXTINF:-1 group-title="MTI" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport mti
 http://103.113.116.150:25461/mtm1/12345/47
 
-#EXTINF:-1 group-title="MTM" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport2.my" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Super Sport 2 mti
+#EXTINF:-1 group-title="MTI" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport2.my" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Super Sport 2 mti
 http://103.113.116.150:25461/mtm1/12345/48
 
-#EXTINF:-1 group-title="MTM" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport3.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Super Sport 3 mti
+#EXTINF:-1 group-title="MTI" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport3.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Super Sport 3 mti
 http://103.113.116.150:25461/mtm1/12345/49
 
-#EXTINF:-1 group-title="MTM" tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png ",ASTRO SUPERSPORT4 mti
+#EXTINF:-1 group-title="MTI" tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png ",ASTRO SUPERSPORT4 mti
 http://103.113.116.150:25461/mtm1/12345/50
 
-################################## MTI EMTEX #######################################################
+################################## MTI EMTEX 
 
 
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="EMTEX",INDOSIAR MTI
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="EMTEX MTI",INDOSIAR MTI
 http://103.113.116.150:25461/mtm1/12345/19
 
 
-#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title=" EMTEX ",SCTV MTI
+#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title=" EMTEX MTI ",SCTV MTI
 http://103.113.116.150:25461/mtm1/12345/20
 
 
-#EXTINF:-1 tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="EMTEX", Moji MTI
+#EXTINF:-1 tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="EMTEX MTI", Moji MTI
 http://103.113.116.150:25461/mtm1/12345/31
 
 
-
-
-
-*********"""""""""""*** HOME TV********†**"""************
-
-
+********************* ASTRO HT 91
 #EXTINF:-1 group-title="ASTRO HT" tvg-id="astro.id"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png ",ASTRO SUPERSTAR
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/26
