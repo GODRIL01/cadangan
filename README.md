@@ -80,43 +80,95 @@ no
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",21
-http://103.113.116.150:25461/mtm1/12345/21
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",32
+http://103.113.116.150:25461/mtm1/12345/32
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",22
-http://103.113.116.150:25461/mtm1/12345/22
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",33
+http://103.113.116.150:25461/mtm1/12345/33
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",23
-http://103.113.116.150:25461/mtm1/12345/23
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",34
+http://103.113.116.150:25461/mtm1/12345/34
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",24
-http://103.113.116.150:25461/mtm1/12345/24
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",35
+http://103.113.116.150:25461/mtm1/12345/35
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",25
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",36
+http://103.113.116.150:25461/mtm1/12345/36
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",37
+http://103.113.116.150:25461/mtm1/12345/37
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",38
+http://103.113.116.150:25461/mtm1/12345/38
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",39
+http://103.113.116.150:25461/mtm1/12345/39
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",40
+http://103.113.116.150:25461/mtm1/12345/41
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",42
+http://103.113.116.150:25461/mtm1/12345/43
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",44
+http://103.113.116.150:25461/mtm1/12345/44
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",45
+http://103.113.116.150:25461/mtm1/12345/45
+
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",46
+http://103.113.116.150:25461/mtm1/12345/46
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",47
+http://103.113.116.150:25461/mtm1/12345/46
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",48
+http://103.113.116.150:25461/mtm1/12345/48
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",49
+http://103.113.116.150:25461/mtm1/12345/49
+
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",50
+http://103.113.116.150:25461/mtm1/12345/50
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",51
+http://103.113.116.150:25461/mtm1/12345/51
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",52
+http://103.113.116.150:25461/mtm1/12345/52
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",53
+http://103.113.116.150:25461/mtm1/12345/53
+
+
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",TV ONE
 http://103.113.116.150:25461/mtm1/12345/25
 
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",26
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",ANTV
 http://103.113.116.150:25461/mtm1/12345/26
 
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",27
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",NET
 http://103.113.116.150:25461/mtm1/12345/27
 
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",28
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",METRO
 http://103.113.116.150:25461/mtm1/12345/28
 
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",29
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",KOMPAS
 http://103.113.116.150:25461/mtm1/12345/29
 
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",30
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",RTV
 http://103.113.116.150:25461/mtm1/12345/30
 
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",31
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",MOJI
 http://103.113.116.150:25461/mtm1/12345/31
 
 
