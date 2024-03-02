@@ -115,6 +115,23 @@ http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11837
 
 ****"""""""MTM ASTRO
 
+
+#EXTINF:-1 group-title="MTM" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport HM2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/26
+
+
+#EXTINF:-1 group-title="MTM" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport2.my" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Super Sport 2 HM2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/27
+
+
+#EXTINF:-1 group-title="MTM" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport3.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Super Sport 3 HM2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/28
+
+
+#EXTINF:-1 group-title="MTM" tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png ",ASTRO SUPERSPORT4 mtHM2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/29
+
+
 #EXTINF:-1 group-title="MTM" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport mti
 http://103.113.116.150:25461/mtm1/12345/47
 
