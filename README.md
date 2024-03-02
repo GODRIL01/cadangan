@@ -79,6 +79,43 @@ no
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",54
+http://103.113.116.150:25461/mtm1/12345/54
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",55
+http://103.113.116.150:25461/mtm1/12345/55
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",56
+http://103.113.116.150:25461/mtm1/12345/56
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",57
+http://103.113.116.150:25461/mtm1/12345/57
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",58
+http://103.113.116.150:25461/mtm1/12345/58
+
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",59
+http://103.113.116.150:25461/mtm1/12345/59
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",60
+http://103.113.116.150:25461/mtm1/12345/60
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",61
+http://103.113.116.150:25461/mtm1/12345/61
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",62
+http://103.113.116.150:25461/mtm1/12345/62
+
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",63
+http://103.113.116.150:25461/mtm1/12345/63
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",64
+http://103.113.116.150:25461/mtm1/12345/64
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",65
+http://103.113.116.150:25461/mtm1/12345/65
 
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",IMC
 http://103.113.116.150:25461/mtm1/12345/32
@@ -101,33 +138,6 @@ http://103.113.116.150:25461/mtm1/12345/37
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",ONE
 http://103.113.116.150:25461/mtm1/12345/38
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",39
-http://103.113.116.150:25461/mtm1/12345/39
-
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",40
-http://103.113.116.150:25461/mtm1/12345/41
-
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",42
-http://103.113.116.150:25461/mtm1/12345/43
-
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",44
-http://103.113.116.150:25461/mtm1/12345/44
-
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",45
-http://103.113.116.150:25461/mtm1/12345/45
-
-
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",46
-http://103.113.116.150:25461/mtm1/12345/46
-
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",47
-http://103.113.116.150:25461/mtm1/12345/46
-
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",48
-http://103.113.116.150:25461/mtm1/12345/48
-
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",49
-http://103.113.116.150:25461/mtm1/12345/49
 
 
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",sky sport f1
