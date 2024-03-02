@@ -80,25 +80,25 @@ no
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",32
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",IMC
 http://103.113.116.150:25461/mtm1/12345/32
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",33
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",FLIK
 http://103.113.116.150:25461/mtm1/12345/33
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",34
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",BIOSKOP
 http://103.113.116.150:25461/mtm1/12345/34
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",35
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",WB
 http://103.113.116.150:25461/mtm1/12345/35
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",36
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",MENTARI
 http://103.113.116.150:25461/mtm1/12345/36
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",37
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",ANIPLUS
 http://103.113.116.150:25461/mtm1/12345/37
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",38
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",ONE
 http://103.113.116.150:25461/mtm1/12345/38
 
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",39
@@ -130,16 +130,16 @@ http://103.113.116.150:25461/mtm1/12345/48
 http://103.113.116.150:25461/mtm1/12345/49
 
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",50
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",sky sport f1
 http://103.113.116.150:25461/mtm1/12345/50
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",51
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",ski sport1
 http://103.113.116.150:25461/mtm1/12345/51
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",52
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",ski sport2
 http://103.113.116.150:25461/mtm1/12345/52
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",53
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",sky sport3
 http://103.113.116.150:25461/mtm1/12345/53
 
 
