@@ -95,49 +95,49 @@ http://103.113.116.150:25461/mtm1/12345/4
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",5
 http://103.113.116.150:25461/mtm1/12345/5
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",6
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",RCTI
 http://103.113.116.150:25461/mtm1/12345/6
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",7
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",MNCTV
 http://103.113.116.150:25461/mtm1/12345/7
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",8
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",GTV
 http://103.113.116.150:25461/mtm1/12345/8
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",9
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",INEWS
 http://103.113.116.150:25461/mtm1/12345/9
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",10
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",OKTV
 http://103.113.116.150:25461/mtm1/12345/10
 
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",11
 http://103.113.116.150:25461/mtm1/12345/11
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",12
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",HBO
 http://103.113.116.150:25461/mtm1/12345/12
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",13
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",HBO HIT
 http://103.113.116.150:25461/mtm1/12345/13
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",14
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",HBO SIGNATURE
 http://103.113.116.150:25461/mtm1/12345/14
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",15
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",HBO FAMILY
 http://103.113.116.150:25461/mtm1/12345/15
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",16
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",CINEMAX
 http://103.113.116.150:25461/mtm1/12345/16
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",17
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",TRANS7
 http://103.113.116.150:25461/mtm1/12345/17
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",18
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",TRANSTV
 http://103.113.116.150:25461/mtm1/12345/18
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",19
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",INDOSIAR
 http://103.113.116.150:25461/mtm1/12345/19
 
-#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",20
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",SCTV
 http://103.113.116.150:25461/mtm1/12345/20
 
 
