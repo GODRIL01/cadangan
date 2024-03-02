@@ -307,51 +307,53 @@ http://103.113.116.150:25461/mtm1/12345/31
 
 **************************** ASTRO MTI 
 
-#EXTINF:-1 group-title="MTI" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport mti
+#EXTINF:-1 group-title="ASTRO MTI" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport mti
 http://103.113.116.150:25461/mtm1/12345/47
 
-#EXTINF:-1 group-title="MTI" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport2.my" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Super Sport 2 mti
+#EXTINF:-1 group-title="ASTRO MTI" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport2.my" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Super Sport 2 mti
 http://103.113.116.150:25461/mtm1/12345/48
 
-#EXTINF:-1 group-title="MTI" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport3.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Super Sport 3 mti
+#EXTINF:-1 group-title="ASTRO MTI" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport3.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Super Sport 3 mti
 http://103.113.116.150:25461/mtm1/12345/49
 
-#EXTINF:-1 group-title="MTI" tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png ",ASTRO SUPERSPORT4 mti
+#EXTINF:-1 group-title="ASTRO MTI" tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png ",ASTRO SUPERSPORT4 mti
 http://103.113.116.150:25461/mtm1/12345/50
 
 
-************************ ASTRO HT2 NEW
-
-#EXTINF:-1 group-title="HT2" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport HT2
-http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/26
-
-#EXTINF:-1 group-title="HT2" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport2.my" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Super Sport 2 HT2
-http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/27
-
-#EXTINF:-1 group-title="HT2" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport3.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Super Sport 3 HT2
-http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/28
-
-#EXTINF:-1 group-title="HT2" tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png ",ASTRO SUPERSPORT4 HT2
+ns/c/c0/Astro_ASSP4.png ",ASTRO SUPERSPORT4 HT2
 http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/29
 
 
-********************* ASTRO HT 91
+********************* ASTRO HT 2
 
-#EXTINF:-1 group-title="ASTRO HT" tvg-id="astro.id"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png ",ASTRO SUPERSTAR
+#EXTINF:-1 group-title="ASTRO HT2" tvg-id="astro.id"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png ",ASTRO SUPERSTAR
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/26
 
-#EXTINF:-1 group-title="ASTRO HT" tvg-id="astro.id"tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/Astro_Supersport_2_HD.png ",ASTRO SUPERSTAR2
+#EXTINF:-1 group-title="ASTRO HT2" tvg-id="astro.id"tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/Astro_Supersport_2_HD.png ",ASTRO SUPERSTAR2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/27
 
-#EXTINF:-1 group-title="ASTRO HT" tvg-id="astro.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Astro_Supersport_3_HD.png ",ASTRO SUPERSPORT3
+#EXTINF:-1 group-title="ASTRO HT2" tvg-id="astro.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Astro_Supersport_3_HD.png ",ASTRO SUPERSPORT3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
 
-#EXTINF:-1 group-title="ASTRO HT" tvg-id="astro.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Astro_Supersport_4_HD.png ",ASTRO SUPERSPORT4
+#EXTINF:-1 group-title="ASTRO HT2" tvg-id="astro.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Astro_Supersport_4_HD.png ",ASTRO SUPERSPORT4
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
+
+************************ ASTRO HT3 NEW
+
+#EXTINF:-1 group-title="ASTRO HT3" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport HT2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/26
+
+#EXTINF:-1 group-title="ASTRO HT3" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport2.my" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Super Sport 2 HT2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/27
+
+#EXTINF:-1 group-title="ASTRO HT3" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport3.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Super Sport 3 HT2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/28
+
+#EXTINF:-1 group-title="ASTRO HT3" tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commo
 
 *******************************************************OXIGEN*******************************************************
 
@@ -382,32 +384,30 @@ https://playlist-coffee.my.id/oxy/indosiar.m3u8
 
 *****************************************HOMETV***********************************************************
 
-#EXTINF:-1 group-title="HOME TV" tvg-id="moji.id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ",Moji HOME TV 1
+#EXTINF:-1 group-title="HOMETV3 EMTEX" tvg-id="moji.id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ",Moji HOME TV 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/23
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
 
-
-
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="HOME TV",INDOSIAR HOME TV 1
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="HOMETV3 EMTEX",INDOSIAR HOME TV 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/94
 
-#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="HOME TV",SCTV HOME TV 1
+#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="HOMETV3 EMTEX",SCTV HOME TV 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/95
 
 
 
-#EXTINF:-1 group-title="HOME TV" tvg-id="moji.id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ",Moji HOME TV
+#EXTINF:-1 group-title="HOMETV2 EMTEX " tvg-id="moji.id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ",Moji HOME TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
 
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="HOME TV",INDOSIAR HOME TV
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="HOMETV2 EMTEX",INDOSIAR HOME TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/94
 
-#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="HOME TV",SCTV HOME TV
+#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="HOMETV 2 EMTEX",SCTV HOME TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/95
 
