@@ -79,6 +79,11 @@ no
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A [Live Only]" tvg-logo="https://i.ibb.co/YPTQ3D8/astro1-1.png" group-title="13.SPORT",Astro 1 Live Only
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1722
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp1.m3u8
+
+
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",89
 http://103.113.116.150:25461/mtm1/12345/89
 
