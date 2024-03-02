@@ -268,15 +268,16 @@ http://103.113.116.150:25461/mtm1/12345/50
 
 ################################## MTI EMTEX #######################################################
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="MTI", Indosiar 
+
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="EMTEX",INDOSIAR MTI
 http://103.113.116.150:25461/mtm1/12345/19
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9hqFKAj.png" group-title="MTI" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
+#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title=" EMTEX ",SCTV MTI
 http://103.113.116.150:25461/mtm1/12345/20
 
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://i.imgur.com/S8YTgXC.jpg" group-title="MTI", Moji
+#EXTINF:-1 tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="EMTEX", Moji MTI
 http://103.113.116.150:25461/mtm1/12345/31
 
 
