@@ -79,20 +79,68 @@ no
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 
-#EXTGRP:HBO TES Cubmu
-#EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO.jpg",HBO (Cubmu)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://s.everestop.io/auction/rtb/v3?mraidVer=1.6.1&vastVer=1.6.1
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-https://cubum.iptvgo.workers.dev
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",1
+http://103.113.116.150:25461/mtm1/12345/1
 
-#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png" tvg-id="HBO.id" tvg-name="HBO " group-title="HBO HM", HBO 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11834
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",2
+http://103.113.116.150:25461/mtm1/12345/2
 
-h
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",3
+http://103.113.116.150:25461/mtm1/12345/3
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",4
+http://103.113.116.150:25461/mtm1/12345/4
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",5
+http://103.113.116.150:25461/mtm1/12345/5
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",6
+http://103.113.116.150:25461/mtm1/12345/6
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",7
+http://103.113.116.150:25461/mtm1/12345/7
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",8
+http://103.113.116.150:25461/mtm1/12345/8
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",9
+http://103.113.116.150:25461/mtm1/12345/9
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",10
+http://103.113.116.150:25461/mtm1/12345/10
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",11
+http://103.113.116.150:25461/mtm1/12345/11
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",12
+http://103.113.116.150:25461/mtm1/12345/12
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",13
+http://103.113.116.150:25461/mtm1/12345/13
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",14
+http://103.113.116.150:25461/mtm1/12345/14
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",15
+http://103.113.116.150:25461/mtm1/12345/15
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",16
+http://103.113.116.150:25461/mtm1/12345/16
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",17
+http://103.113.116.150:25461/mtm1/12345/17
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",18
+http://103.113.116.150:25461/mtm1/12345/18
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",19
+http://103.113.116.150:25461/mtm1/12345/19
+
+#EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",20
+http://103.113.116.150:25461/mtm1/12345/20
+
+
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="HBO HM", HBO HitS
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
