@@ -174,19 +174,19 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
 
 ################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="OXIGEN",MOJI OXY
+#EXTINF:-1 tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="XTV",MOJI 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://xtv.ooo:8080/3212571066/abc123/350997
-https://playlist-coffee.my.id/oxy/moji.m3u8
 
-#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="OXIGEN ",SCTV OXY
+
+#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="XTV ",SCTV 
 http://51.159.15.46/3212571066/abc123/351030?token=GhMNBEZcR1gRBVBcV1YCUVQCBAMDVwEJWlZUBgYBVAAHBlcDAVBcUVFEGBoXEhZRBVtrXgVGAgNXVwcHAxQUFhJUFzpcUEdYEV8DCFFQRhhGQl1aBEYCAVVWAAUADgZRWB1HFVxQR1hdE1hUSEQBTBBTRlkACGdUBxBeV1YaDA0UXQlJF1sLPVcDWVkKAkYORgcWG0MNS0BAXFlBX1QaQQNYERdUQABACQhBVAhKRlcLQ1pDEx0aCkAvcxYfGlMbFVQLFlxbC0AJREBLRkpGXRdpRlISEEpVAwtSRhECFFNDHUcIVEw6AVwIWl0HEg1bCkUWDUNVGhxAC1haWkxZET5BDAEXDgsXXwpJ
-https://playlist-coffee.my.id/oxy/sctv.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="OXIGEN ",INDOSIAR OXY
+
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="XTV ",INDOSIAR 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://51.159.15.46/3212571066/abc123/350972?token=GhMNBEZcR1gRVAYJVANTA1cEVgVSBloJUF4DUVdZDlBWBgZWU1FQWwFEGBoXEhZRBVtrXgVGAgNXVg4DARQUFhJUFzpcUEdYEV8DCFFQRhhGQl1aBEYCAVVWAAUADgRQWB1HFVxQR1gRUwYAUlJGGEZTTEMEFlZRDjlTUUVRVQZDCwsQWVhJQFwIa1wBCwVaABQOFVBGFBILFUcWCVZDDw0dRwdcQBcDRwMWAkZXXQNRFBgVAgtNXhYUThYJGn8nQx1HAE1AAAxAD1tWRlxGQBcUGBUIF2dCBxVDRlZZWwYTE19HBRZJQF4HTGcHCQpaAVVAXg4KSxJYRAYWHxpbDA9YEQpHaxULV0QOGlZRUARdFEk=
-https://playlist-coffee.my.id/oxy/indosiar.m3u8
+
 
 *****************************************HOMETV***********************************************************
 
