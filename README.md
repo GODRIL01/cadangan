@@ -167,10 +167,10 @@ http://103.113.116.150:25461/mtm1/12345/64
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",kbc | sbs
 http://103.113.116.150:25461/mtm1/12345/65
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Sky_Sport_F1_-_Logo_2020.svg " tvg-id=".id" tvg-name="sky sports  " group-title="SPORTS ", sky sports F1 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/768px-Sky_Sport_F1_-_Logo_2020.svg.png " tvg-id=".id" tvg-name="sky sports  " group-title="SPORTS ", sky sports F1 
 http://103.113.116.150:25461/mtm1/12345/50
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Sky_Sport_Arena_-_Logo_2020.svg " tvg-id=".id" tvg-name="sky sports  " group-title="SPORTS ",sky sports arena
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/768px-Sky_Sport_Arena_-_Logo_2020.svg.png " tvg-id=".id" tvg-name="sky sports  " group-title="SPORTS ",sky sports arena
 http://103.113.116.150:25461/mtm1/12345/51
 
 #EXTINF:-1 tvg-logo="https://skyfinder.sky.de/sf/cms/static/img/admin/sky_20-09_sky-sport_logo.svg " tvg-id=".id" tvg-name="sky sports  " group-title="SPORTS ", sky sports 
@@ -179,7 +179,7 @@ http://103.113.116.150:25461/mtm1/12345/52
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",sky sports golf
 http://103.113.116.150:25461/mtm1/12345/53
 
-#EXTINF:-1 tvg-logo=" " tvg-id=".id" tvg-name="sky sports  " group-title="SPORTS ", sky sports cricket
+#EXTINF:-1 tvg-logo="https://rxtvinfo.com/wp-content/uploads/2023/01/rx-sky-sports-cricket.jpg " tvg-id=".id" tvg-name="sky sports  " group-title="SPORTS ", sky sports cricket
 http://103.113.116.150:25461/mtm1/12345/56
 
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",sky sports action
