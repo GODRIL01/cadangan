@@ -243,8 +243,6 @@ http://103.113.116.150:25461/mtm1/12345/31
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",HBO
 http://103.113.116.150:25461/mtm1/12345/12
 
-*****  MOVIES
-
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",HBO HIT
 http://103.113.116.150:25461/mtm1/12345/13
 
@@ -705,22 +703,24 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 
 ####################################### MTI #################################################################
 
+
+
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png" tvg-id="HBO.id" tvg-name="HBO " group-title="HBO MTI", HBO 
-http://103.113.116.150:25461/mtm1/12345/16
+http://103.113.116.150:25461/mtm1/12345/12
 https://link.zozotv.xyz:443/rozila969/abc12345/96
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="HBO MTI", HBO HitS
+http://103.113.116.150:25461/mtm1/12345/13
 http://iptvtree.net:8080/F26646/f950f250/2219750
-http://103.113.116.150:25461/mtm1/12345/17
 https://link.zozotv.xyz:443/rozila969/abc12345/97
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="HBO MTI", HBO Signature
+http://103.113.116.150:25461/mtm1/12345/14
 http://iptvtree.net:8080/F26646/f950f250/221948
-http://103.113.116.150:25461/mtm1/12345/18
 https://link.zozotv.xyz:443/rozila969/abc12345/99
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="HBO MTI", HBO Family
-http://103.113.116.150:25461/mtm1/12345/19
+http://103.113.116.150:25461/mtm1/12345/15
 https://link.zozotv.xyz:443/rozila969/abc12345/98
 
 #########################################################################################################
