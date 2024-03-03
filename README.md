@@ -179,8 +179,10 @@ http://103.113.116.150:25461/mtm1/12345/52
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",sky sports golf
 http://103.113.116.150:25461/mtm1/12345/53
 
-#EXTINF:-1 tvg-logo="https://rxtvinfo.com/wp-content/uploads/2023/01/rx-sky-sports-cricket.jpg " tvg-id=".id" tvg-name="sky sports  " group-title="SPORTS ", sky sports cricket
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png " tvg-id=".id" tvg-name="sky sports  " group-title="SPORTS ", sky sports cricket
 http://103.113.116.150:25461/mtm1/12345/56
+
+
 
 #EXTINF:-1 tvg-name=" " tvg-logo=" " group-title=" tes",sky sports action
 http://103.113.116.150:25461/mtm1/12345/57
