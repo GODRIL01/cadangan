@@ -190,7 +190,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp1.m3u8
 #EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-A [Live Only]" tvg-logo="https://i.ibb.co/YPTQ3D8/astro1-1.png" group-title="ASTRO MIMIPIPI",Astro 2 Live Only
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp2.m3u8
 
-#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A [Live Only]" tvg-logo="https://i.ibb.co/YPTQ3D8/astro1-1.png" group-title="13.ASTRO MIMIPIPI",Astro 3 Live Only
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A [Live Only]" tvg-logo="https://i.ibb.co/YPTQ3D8/astro1-1.png" group-title="ASTRO MIMIPIPI",Astro 3 Live Only
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp3.m3u8
 
 #EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-B" tvg-logo="https://i.ibb.co/YPTQ3D8/astro1-1.png" group-title="ASTRO MIMIPIPI",Astro 4
