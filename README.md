@@ -184,16 +184,16 @@ http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/28
 
 †************************* ASTRO MIMIPIPI
 
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A [Live Only]" tvg-logo="https://i.ibb.co/YPTQ3D8/astro1-1.png" group-title="ASTRO MIMIPIPI",Astro 1 Live Only
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A [Live Only]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png " group-title="ASTRO MIMIPIPI",Astro 1 Live Only
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp1.m3u8
   
-#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-A [Live Only]" tvg-logo="https://i.ibb.co/YPTQ3D8/astro1-1.png" group-title="ASTRO MIMIPIPI",Astro 2 Live Only
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-A [Live Only]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png  " group-title="ASTRO MIMIPIPI",Astro 2 Live Only
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp2.m3u8
 
-#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A [Live Only]" tvg-logo="https://i.ibb.co/YPTQ3D8/astro1-1.png" group-title="ASTRO MIMIPIPI",Astro 3 Live Only
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A [Live Only]" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png " group-title="ASTRO MIMIPIPI",Astro 3 Live Only
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp3.m3u8
 
-#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-B" tvg-logo="https://i.ibb.co/YPTQ3D8/astro1-1.png" group-title="ASTRO MIMIPIPI",Astro 4
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-B" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png " group-title="ASTRO MIMIPIPI",Astro 4
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp4.m3u8
 
 
