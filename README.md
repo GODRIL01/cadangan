@@ -83,6 +83,10 @@ no
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 https://hometv.web.id/nvchome/hBK3vdFLmB/indosiar
 
+#EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="" group-title="moji hmtv",moji
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+https://hometv.web.id/nvchome/hBK3vdFLmB/moji
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="" group-title="HBO HMTV",hbo
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
