@@ -83,13 +83,22 @@ no
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 https://hometv.web.id/nvchome/hBK3vdFLmB/indosiar
 
-#EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="" group-title="LIGA",HBO
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-https://hometv.web.id/nvchome/hBK3vdFLmB/HBO
 
-#EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="https://i.imgur.com/V02wRkk.png" group-title="LIGA",hbo
+#EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="" group-title="HBO HMTV",hbo
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 https://hometv.web.id/nvchome/hBK3vdFLmB/hbo
+
+#EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="" group-title="HBO HMTV",hbo hit
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+https://hometv.web.id/nvchome/hBK3vdFLmB/hbo hit
+
+#EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="" group-title="HBO HMTV",hbo family
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+https://hometv.web.id/nvchome/hBK3vdFLmB/hbo family
+
+#EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="" group-title="HBO HMTV",hbo signature
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+https://hometv.web.id/nvchome/hBK3vdFLmB/hbo signature
 
 
 #EXTINF:-1 group-title="CHANNEL | BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
