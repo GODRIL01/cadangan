@@ -102,7 +102,7 @@ https://hometv.web.id/nvchome/hBK3vdFLmB/hbofamily
 
 #EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="" group-title="HBO HMTV",hbo signature
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-https://hometv.web.id/nvchome/hBK3vdFLmB/hbosignature
+https://hometv.web.id/nvchome/hBK3vdFLmB/hbo.signature
 
 
 #EXTINF:-1 group-title="CHANNEL | BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
