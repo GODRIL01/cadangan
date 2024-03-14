@@ -1439,7 +1439,8 @@ http://re140.offset-shop.store/live/610303030/index.m3u8?t=_ztcNg5eHLZQElipnTnnc
 
   
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="Sports",beIN 1 Arab
-http://f13.dinott.com/play/live.php?mac=00:1A:79:8C:52:B8&stream=987845&extension=ts&play_token=yK7Ppvy2jW
+http://sansat.net:88/live/02048081503032/02048081503032/60960.ts
+
  
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="Sports",beIN 2 Arab
 http://f13.dinott.com/play/live.php?mac=00:1A:79:8C:52:B8&stream=987844&extension=ts&play_token=yK7Ppvy2jW
