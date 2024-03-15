@@ -589,6 +589,10 @@ https://link.zozotv.xyz:443/rozila969/abc12345/98
 
 
 #EXTINF:-1 tvg-id="HBO " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png " group-title="HBO ID ",HBO ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://37.49.225.145:8080/Miglior/rk8mEWJQMwyDZ9bYU35uPt/197972",
+  
+  "image":"https://www.appcreator24.com/
 #http://myteve.online:8080/Abraham/6b3ca724a0/197972
 https://s.id/hbo_shareext-m3u8|User-Agent=Shareext/5.0
 https://zozotv.xyz:443/rozila969/abc12345/693
