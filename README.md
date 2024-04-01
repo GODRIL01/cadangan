@@ -79,6 +79,9 @@ no
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="https://i.imgur.com/V02wRkk.png" group-title="LIGA",INDOSIAR 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 https://hometv.web.id/nvchome/hBK3vdFLmB/indosiar
@@ -122,28 +125,9 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 
 
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",1
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/622.ts
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",2
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/623.ts
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",3
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/624.ts
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",4
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/625.ts
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",5
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/626.ts
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",6
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/627.ts
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",7
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/628.ts
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",8
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/629.ts
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",9
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/630.ts
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",10
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/631.ts
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",11
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
+
+
+
 **************************************
 0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="HBO HT3", HBO Signature
