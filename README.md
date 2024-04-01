@@ -117,10 +117,20 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTINF:-1 group-title="CHANNEL | BRI LIGA 1" tvg-id="indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/622.ts
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/623.ts
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/624.ts
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/625.ts
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/626.ts
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/627.ts
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/628.ts
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/629.ts
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/630.ts
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/631.ts
 
-
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 **************************************
-
+0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="HBO HT3", HBO Signature
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11835
