@@ -117,17 +117,32 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTINF:-1 group-title="CHANNEL | BRI LIGA 1" tvg-id="indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/622.ts
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/623.ts
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/624.ts
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/625.ts
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/626.ts
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/627.ts
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/628.ts
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/629.ts
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/630.ts
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/631.ts
 
+#EXTINF:-1 group-title="CHANNEL | BRI LIGA 1" tvg-id="indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
+
+
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",1
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/622.ts
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/623.ts
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",3
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/624.ts
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",4
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/625.ts
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",5
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/626.ts
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",6
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/627.ts
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",7
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/628.ts
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",8
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/629.ts
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",9
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/630.ts
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",10
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/631.ts
+#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo=" " group-title="E",11
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 **************************************
 0
