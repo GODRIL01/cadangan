@@ -93,6 +93,29 @@ https://hometv.web.id/nvchome/hBK3vdFLmB/MOJI
 
 ***********"HBO
 
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://i.ibb.co/1GTZXcH/Untitled-3-21.png" group-title="HBO",HBO HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/2.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="HBO HT3", HBO Signature
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/4.ts
+
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="HBO HT3", HBO HitS
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/3.ts
+
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="HBO HT3", HBO Family
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/5.ts
+
+
+#####$$$$$$$$#################HBO
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://i.ibb.co/1GTZXcH/Untitled-3-21.png" group-title="HBO",HBO HD
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/2.ts|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 
