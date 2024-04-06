@@ -91,6 +91,25 @@ https://hometv.web.id/nvchome/hBK3vdFLmB/indosiar
 https://hometv.web.id/nvchome/hBK3vdFLmB/MOJI
 
 
+***********"HBO
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://i.ibb.co/1GTZXcH/Untitled-3-21.png" group-title="HBO",HBO HD
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/2.ts|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO HITS HD" tvg-logo="https://i.ibb.co/LZJrJyt/Untitled-3-11.png" group-title="HBO",HBO HITS HD
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/3.ts|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGN HD" tvg-logo="https://i.ibb.co/7WkmhKD/Untitled-3-12.png" group-title="HBO",HBO SIGN HD
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/4.ts|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://i.ibb.co/8BLm6Gr/Untitled-3-10.png" group-title="HBO",HBO FAMILY HD
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/5.ts|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+
+
+**************†************†********
+
 #EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="" group-title="HBO HMTV",hbo
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 https://hometv.web.id/nvchome/hBK3vdFLmB/hbo
@@ -107,6 +126,8 @@ https://hometv.web.id/nvchome/hBK3vdFLmB/hbofamily
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 https://hometv.web.id/nvchome/hBK3vdFLmB/HBOSIGNATURE
 
+******************************
+
 
 #EXTINF:-1 group-title="CHANNEL | BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -115,9 +136,6 @@ https://hometv.web.id/nvchome/hBK3vdFLmB/HBOSIGNATURE
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 
-
-
-
 #EXTINF:-1 group-title="CHANNEL | BRI LIGA 1" tvg-id="indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 
@@ -128,7 +146,7 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 
 
 
-**************************************
+************************************** HBO
 0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="HBO HT3", HBO Signature
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
