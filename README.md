@@ -91,6 +91,18 @@ https://hometv.web.id/nvchome/hBK3vdFLmB/indosiar
 https://hometv.web.id/nvchome/hBK3vdFLmB/MOJI
 
 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title=" HBO 🇮🇩"",HBO 
+http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11834
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title=" HBO 🇮🇩"",HBO SIGN 
+http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11835
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title=" HBO 🇮🇩"",HBO HITS 
+http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11836
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title=" HBO 🇮🇩"",HBO FAMILY 
+http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11837
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title=" HBO 🇮🇩"",CINEMAX 
+http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11838
+//=====================================================
+
 ***********"HBO
 
 
