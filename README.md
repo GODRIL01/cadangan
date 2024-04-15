@@ -1521,53 +1521,5 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
  
-#EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports1 arab
-http://re140.offset-shop.store/live/918454578001/index.m3u8?t=Rwqhh96uKGoiYdHf6wTpBQ&e=1709223230
-http://re140.offset-shop.store/live/918454578001/index.m3u8?t=-7ZwiZ_bWBQ4guzYjq4JRQ&e=1709203832
-
-#EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports2 arab
-http://re140.offset-shop.store/live/69854211/index.m3u8?t=Lk2UgukshkEi8SCqI6U45Q&e=1709204105
-
-
-#EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports3 arab
-http://re140.offset-shop.store/live/645587700/index.m3u8?t=VOfOlpbTC9Qmaf5W0iPW0g&e=1709204283
-
-#EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports4 arab
-http://re140.offset-shop.store/live/9787488847/index.m3u8?t=tzkWzCN-JmyMsmcu9FUpZg&e=1709204375
-
-#EXTINF:-1 tvg-logo="" group-title="BeIN Sport arab",BeIN Sports5 arab
-http://re140.offset-shop.store/live/610303030/index.m3u8?t=_ztcNg5eHLZQElipnTnncQ&e=1709204450
-
-
-  
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="Sports",beIN 1 Arab
-http://94.137.74.111:8080/live/King4kMovie/BshIBunTkt/123260..m3u8
-
-
- 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="Sports",beIN 2 Arab
-http://f13.dinott.com/play/live.php?mac=00:1A:79:8C:52:B8&stream=987844&extension=ts&play_token=yK7Ppvy2jW
- 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="Sports",beIN 3 Arab
-http://f13.dinott.com/play/live.php?mac=00:1A:79:8C:52:B8&stream=987843&extension=ts&play_token=yK7Ppvy2jW
- 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="Sports",beIN 4 Arab
-http://f13.dinott.com/play/live.php?mac=00:1A:79:8C:52:B8&stream=987842&extension=ts&play_token=yK7Ppvy2jW
- 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="Sports",beIN 5 Arab
-http://f13.dinott.com/play/live.php?mac=00:1A:79:8C:52:B8&stream=987841&extension=ts&play_token=yK7Ppvy2jW
- 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="Sports",beIN 6 Arab
-http://f13.dinott.com/play/live.php?mac=00:1A:79:8C:52:B8&stream=987840&extension=ts&play_token=yK7Ppvy2jW
- 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="Sports",beIN 7 Arab
-http://f13.dinott.com/play/live.php?mac=00:1A:79:8C:52:B8&stream=987839&extension=ts&play_token=yK7Ppvy2jW
- 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="Sports",beIN 8 Arab
-http://f13.dinott.com/play/live.php?mac=00:1A:79:8C:52:B8&stream=987838&extension=ts&play_token=yK7Ppvy2jW
- 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/lfnex0i804jsefs/beinsports.png" group-title="Sports",beIN 9 Arab
-http://f13.dinott.com/play/live.php?mac=00:1A:79:8C:52:B8&stream=987837&extension=ts&play_token=yK7Ppvy2jW
-  
 
  
