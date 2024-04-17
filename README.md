@@ -317,7 +317,8 @@ http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=
 #EXTINF:-1 group-title="Sports ASTRO" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro Supersport 4
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
-http://mku0414.oknirvana.club:8880/3us02233n01/adsf232e23/59217
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186390
+
 
 
 
