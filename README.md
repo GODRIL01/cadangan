@@ -297,6 +297,27 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp3.m3u8
 #EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-B" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png " group-title="ASTRO MIMIPIPI",Astro 4
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp4.m3u8
 
+******************ASTRO
+
+#EXTINF:-1 group-title="Sports ASTRO" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Supersport
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/26
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186387
+
+#EXTINF:-1 group-title="Sports ASTRO" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Supersport 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/27
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186388
+
+#EXTINF:-1 group-title="Sports ASTRO" tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Supersport 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186389
+
+#EXTINF:-1 group-title="Sports ASTRO" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro Supersport 4
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
+http://mku0414.oknirvana.club:8880/3us02233n01/adsf232e23/59217
 
 
 
