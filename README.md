@@ -103,6 +103,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 
 #EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="https://i.imgur.com/V02wRkk.png" group-title="LIGA",INDOSIAR 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=571245&extension=m3u8&play_token=MdC1lGFK0f
 https://hometv.web.id/nvchome/hBK3vdFLmB/indosiar
 
 #EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="" group-title="moji hmtv",moji
