@@ -389,17 +389,12 @@ http://103.226.232.196:8000/play/a022/index.m3u8
 http://103.226.232.196:8000/play/a013/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEX PKAY ",Indosiar 1
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEX PLAY ",Indosiar 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.226.232.196:8000/play/a00l/index.m3u8
 
 
 
-
-********************************************INDIHOME*****************************************************
-
-#EXTINF:-1 tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="INDIHOME",MOJI INDIHOME
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 
 ****************************************VIDIO*******************************************
