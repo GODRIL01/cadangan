@@ -130,11 +130,8 @@ http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11838
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/2.ts
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="HBO GROUP HM", HBO Signature
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://216.227.145.50:9000/play/live/CC438C35A7374D16.ts
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/4.ts
 
 
@@ -146,21 +143,6 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/3.ts
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/5.ts
 
-
-#####$$$$$$$$#################HBO
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://i.ibb.co/1GTZXcH/Untitled-3-21.png" group-title="HBO",HBO HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/2.ts|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO HITS HD" tvg-logo="https://i.ibb.co/LZJrJyt/Untitled-3-11.png" group-title="HBO",HBO HITS HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/3.ts|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGN HD" tvg-logo="https://i.ibb.co/7WkmhKD/Untitled-3-12.png" group-title="HBO",HBO SIGN HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/4.ts|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://i.ibb.co/8BLm6Gr/Untitled-3-10.png" group-title="HBO",HBO FAMILY HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/5.ts|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 
 
 **************†************†********
@@ -194,8 +176,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:-1 group-title="CHANNEL | BRI LIGA 1" tvg-id="indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 
-#EXTINF:-1 group-title="CHANNEL | BRI LIGA 1" tvg-id="indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 
 
 
@@ -222,32 +202,6 @@ http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11834
 
 
 
-
-################################## MTI EMTEX 
-
-
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="EMTEX MTI",INDOSIAR MTI
-http://103.113.116.150:25461/mtm1/12345/19
-
-#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title=" EMTEX MTI ",SCTV MTI
-http://103.113.116.150:25461/mtm1/12345/20
-
-#EXTINF:-1 tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="EMTEX MTI", Moji MTI
-http://103.113.116.150:25461/mtm1/12345/31
-
-**************************** ASTRO MTI 
-
-#EXTINF:-1 group-title="ASTRO MTI" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport mti
-http://103.113.116.150:25461/mtm1/12345/47
-
-#EXTINF:-1 group-title="ASTRO MTI" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport2.my" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Super Sport 2 mti
-http://103.113.116.150:25461/mtm1/12345/48
-
-#EXTINF:-1 group-title="ASTRO MTI" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport3.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Super Sport 3 mti
-http://103.113.116.150:25461/mtm1/12345/49
-
-#EXTINF:-1 group-title="ASTRO MTI" tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png ",ASTRO SUPERSPORT4 mti
-http://103.113.116.150:25461/mtm1/12345/50
 
 
 ns/c/c0/Astro_ASSP4.png ",ASTRO SUPERSPORT4 HT2
