@@ -134,7 +134,7 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/2.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="HBO GROUP HM", HBO Signature
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://216.227.145.50:9000/play/live/CC438C35A7374D16.ts?id=pPmnF5YXWQfl7TeSj87h4tp-o16RrvrDwUFefF_W&uid=724105396118FFA1&apt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTM0OTczNDl9.lbk7_Rl5ngU7qnqlc35Ho6WJSj4sAmmraiZJ_7WhPI4&old=true
+http://216.227.145.50:9000/play/live/CC438C35A7374D16.ts
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/4.ts
 
 
