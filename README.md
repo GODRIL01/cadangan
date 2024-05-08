@@ -113,12 +113,12 @@ https://as-proxy.openwindow040.workers.dev/https://linearjitp02-playback.astro.c
 
 **********************************************
 
-#EXTINF:0 tvg-logo="https://tinyurl.com/logo-sctv" group-title="Local",SCTV
+#EXTINF:0 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png  " group-title="Local",SCTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8?app_type=web&userid=lite&chname=SCTV
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png" group-title="Local",Indosiar 
+#EXTINF:-1 tvg-logo=" https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="Local",Indosiar 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-group1-swiftservesd-1.dens.tv/s/s04/01.m3u8
