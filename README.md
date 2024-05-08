@@ -113,6 +113,17 @@ https://as-proxy.openwindow040.workers.dev/https://linearjitp02-playback.astro.c
 
 **********************************************
 
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-sctv" group-title="Local",SCTV
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+https://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8?app_type=web&userid=lite&chname=SCTV
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0" group-title="HBO Maxtream", HBO (Max) 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true 
