@@ -1,80 +1,3 @@
-no       
-********************************************************************************************************************** *
-
-                                         GAK USAH DI KLIK LINKNYA 
-
-                               LANNSUNG DI COPY SAJA LINK YG KAMI KIRIM VIA CHAT 
-
-
-
-
-
-***********************************************************************************************************************
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
@@ -85,7 +8,7 @@ no
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-id="RCTI.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rcti-new-logo.png " group-title=" ts",RCTI
-https://testfunctionlive.mncnow.id/live/eds/V+live-HD/sa_dash_vmx/V+live-HD.mpd
+https://testfunctionlive.mncnow.id/live/eds/V+live/sa_dash_vmx/V+live.mpd
 
 https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
