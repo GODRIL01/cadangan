@@ -80,7 +80,7 @@ no
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://inno.visionplus.id/ads/api/v2/midroll?content_type=live_tv&user_type=free&channel_id=00000000000000000001&channel_name=RCTI&partner_name=Mirada&program_title=Orang%20Miskin%20Baru&platform=web&olmr=5
+#KODIPROP:inputstream.adaptive.license_key=https://www.visionplus.id/managetv/core/device/ott?identityToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOjEwMTY1Nzk2LCJ0eSI6IlVTRVIiLCJwY2kiOiI5NzA3MDc0IiwiaHdJZCI6ImRhN2MwYjVmLTgwZjYtNGI5Mi1hYzE4LTNlM2RlZmVlM2NkYSIsImV4cCI6MTcxNTI0Njg3OSwicG4iOiJNTkMiLCJjaWQiOjg1OTIyNDB9.8aKkrXx7qKAvvgPZDda9h1xs7TnBZvV0UUWh-CfusoE
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="RCTI.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rcti-new-logo.png " group-title="TES MNC ",RCTI
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
