@@ -78,10 +78,14 @@ no
 
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="RCTI.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rcti-new-logo.png " group-title="TES MNC ",RCTI
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indosiar",112-Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://103.226.232.196:8000/play/a00l/index.m3u8
+
+
 ***********************HBO MY*************************
 
 
