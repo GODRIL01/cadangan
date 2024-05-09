@@ -79,18 +79,13 @@ no
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.visionplus.id/managetv/core/device/ott?identityToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOjEwMTY1Nzk2LCJ0eSI6IlVTRVIiLCJwY2kiOiI5NzA3MDc0IiwiaHdJZCI6ImRhN2MwYjVmLTgwZjYtNGI5Mi1hYzE4LTNlM2RlZmVlM2NkYSIsImV4cCI6MTcxNTI0Njg3OSwicG4iOiJNTkMiLCJjaWQiOjg1OTIyNDB9.8aKkrXx7qKAvvgPZDda9h1xs7TnBZvV0UUWh-CfusoE
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="RCTI.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rcti-new-logo.png " group-title="TES MNC ",RCTI
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-id="RCTI.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rcti-new-logo.png " group-title=" ts",RCTI
-https://testfunctionlive.mncnow.id/live/eds/Vision+live/sa_dash_vmx/Vision+live.mpd
+https://testfunctionlive.mncnow.id/live/eds/Vision+live-HD/sa_dash_vmx/Vision+live-HD.mpd
 
 https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
@@ -755,27 +750,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-####################################### MTI #################################################################
-
-
-
-#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png" tvg-id="HBO.id" tvg-name="HBO " group-title="HBO MTI", HBO 
-http://103.113.116.150:25461/mtm1/12345/12
-https://link.zozotv.xyz:443/rozila969/abc12345/96
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="HBO MTI", HBO HitS
-http://103.113.116.150:25461/mtm1/12345/13
-http://iptvtree.net:8080/F26646/f950f250/2219750
-https://link.zozotv.xyz:443/rozila969/abc12345/97
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="HBO MTI", HBO Signature
-http://103.113.116.150:25461/mtm1/12345/14
-http://iptvtree.net:8080/F26646/f950f250/221948
-https://link.zozotv.xyz:443/rozila969/abc12345/99
-
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="HBO MTI", HBO Family
-http://103.113.116.150:25461/mtm1/12345/15
-https://link.zozotv.xyz:443/rozila969/abc12345/98
 
 #########################################################################################################
 
