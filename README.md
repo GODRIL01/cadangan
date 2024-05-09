@@ -79,7 +79,7 @@ no
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=eyJraWQiOiJjMTgxOTkzYy1mODUyLTQ0MmQtOTY1Yi1hMmI3MzU4ZGI5NjkiLCJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXIiOjEsImlzcyI6InZpc2lvbnBsdXMiLCJzdWIiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMSIsImlhdCI6MTcxNTIzMDcyMywiZXhwIjoxNzE1MjMxMzIzLCJqdGkiOiIwMGUwMzU2NC04YmJhLTQ2N2YtODZjZS1hN2M1Y2IwZjYwMDYiLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsInBvbGljeSI6eyJ3aWRldmluZSI6eyJsaWNlbnNlX2R1cmF0aW9uX3NlY29uZHMiOjE0NDAwLCJjYW5fcGxheSI6dHJ1ZSwiY2FuX3JlbmV3Ijp0cnVlLCJjYW5fcGVyc2lzdCI6ZmFsc2V9fX0.Vw84_I-Fsn_Sc2mRHLdqx7dbgkFdLXFEWgvihxiq9Smmxc0s9kHzcLmos23mPIYVfx-UdYALCIsDlpheAWcKwQ
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="RCTI.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rcti-new-logo.png " group-title="TES MNC ",RCTI
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
