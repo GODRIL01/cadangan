@@ -90,6 +90,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-id="RCTI.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rcti-new-logo.png " group-title=" ts",RCTI
+https://testfunctionlive.mncnow.id/live/eds/Vision+live/sa_dash_vmx/Vision+live.mpd
+
 https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
