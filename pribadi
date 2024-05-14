@@ -1041,25 +1041,21 @@ https://testfunctionlive.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.
 #EXTINF:-1 tvg-id="TVRI SPORT HD.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png " group-title="SPORTS ",TVRI SPORT HD 
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream4/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/59220
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp1.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Super Sport 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/59219
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp2.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",AstroSupersport 1
+http://abcnew.site:8880/live/3ca7043n02/dsf23e423/59220.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",ASTRO SUPERSPORT3
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/59218
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp3.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://farm3.static.flickr.com/2706/4101283686_6ca896592c.jpg",AstroSupersport 2
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
 
-#EXTINF:-1 group-title="SPORTS" tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png ",ASTRO SUPERSPORT4
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/59217
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp4.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",AstroSupersport 3
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",AstroSupersport 4
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
+
+
+
 
 
 #EXTINF:-1 group-title="SPORTS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png ",Bein sports 1
