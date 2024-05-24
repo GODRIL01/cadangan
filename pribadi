@@ -85,9 +85,9 @@
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://testfunctionlive.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="LIVE EVENT ",MOJI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=206&type=hls
+#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="LIVE EVENT",Live 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://s.id/mojiHD_shareext-xs
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
