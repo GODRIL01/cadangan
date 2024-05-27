@@ -80,6 +80,25 @@ http://iptvtree.net:8080/c4596f70/c3848d92/298550
 
 ***********************HBO MY*************************
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTINF:-1 tvg-id="CINEMAX" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://1.bp.blogspot.com/-5c7cU3ULocM/YJZOZAwEdxI/AAAAAAAAEp8/hmQSk7dXX1gqj1VRIEsa4DO-QsSVLsK-gCLcBGAsYHQ/s720/CINEMAX-Poster.png" group-title=" CINEMAX",Cinemax
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/45
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/46
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/47
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/48
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/49
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/50
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/44
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/43
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/42
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/41
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/40
+
+
 
 #EXTINF:-1 tvg-logo=" https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0 " group-title="HBO MY",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
