@@ -98,8 +98,21 @@ http://103.155.250.139:25461/v3/Ub5dHa4TJp/43
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/42
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/41
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/40
-
-
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/39
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/38
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/37
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/36
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/35
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/34
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/33
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/32
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/51
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/52
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/53
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/54
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/55
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/56
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/57
 
 #EXTINF:-1 tvg-logo=" https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0 " group-title="HBO MY",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
