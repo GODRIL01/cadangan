@@ -172,7 +172,7 @@ http://103.155.250.139:25461/v3/Ub5dHa4TJp/47
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/50
 
-#EXTINF:-1 tvg-id="HBO " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png " group-title="HBO HT3 ",HBO 
+#EXTINF:-1 tvg-id="HBO " tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO.jpg " group-title="HBO HT3 ",HBO 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/39
 
@@ -259,18 +259,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
 
 ################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="XTV",MOJI 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://xtv.ooo:8080/3212571066/abc123/350997
-
-
-#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="XTV ",SCTV 
-http://51.159.15.46/3212571066/abc123/351030?token=GhMNBEZcR1gRBVBcV1YCUVQCBAMDVwEJWlZUBgYBVAAHBlcDAVBcUVFEGBoXEhZRBVtrXgVGAgNXVwcHAxQUFhJUFzpcUEdYEV8DCFFQRhhGQl1aBEYCAVVWAAUADgZRWB1HFVxQR1hdE1hUSEQBTBBTRlkACGdUBxBeV1YaDA0UXQlJF1sLPVcDWVkKAkYORgcWG0MNS0BAXFlBX1QaQQNYERdUQABACQhBVAhKRlcLQ1pDEx0aCkAvcxYfGlMbFVQLFlxbC0AJREBLRkpGXRdpRlISEEpVAwtSRhECFFNDHUcIVEw6AVwIWl0HEg1bCkUWDUNVGhxAC1haWkxZET5BDAEXDgsXXwpJ
-
-
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="XTV ",INDOSIAR 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://51.159.15.46/3212571066/abc123/350972?token=GhMNBEZcR1gRVAYJVANTA1cEVgVSBloJUF4DUVdZDlBWBgZWU1FQWwFEGBoXEhZRBVtrXgVGAgNXVg4DARQUFhJUFzpcUEdYEV8DCFFQRhhGQl1aBEYCAVVWAAUADgRQWB1HFVxQR1gRUwYAUlJGGEZTTEMEFlZRDjlTUUVRVQZDCwsQWVhJQFwIa1wBCwVaABQOFVBGFBILFUcWCVZDDw0dRwdcQBcDRwMWAkZXXQNRFBgVAgtNXhYUThYJGn8nQx1HAE1AAAxAD1tWRlxGQBcUGBUIF2dCBxVDRlZZWwYTE19HBRZJQF4HTGcHCQpaAVVAXg4KSxJYRAYWHxpbDA9YEQpHaxULV0QOGlZRUARdFEk=
 
 
 *****************************************HOMETV***********************************************************
@@ -550,31 +538,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 
 
 #########################################################################################################
-
-
-#EXTINF:-1 tvg-id="HBO " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png " group-title="HBO ID ",HBO ID
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://37.49.225.145:8080/Miglior/rk8mEWJQMwyDZ9bYU35uPt/197972",
-  
-  "image":"https://www.appcreator24.com/
-#http://myteve.online:8080/Abraham/6b3ca724a0/197972
-https://s.id/hbo_shareext-m3u8|User-Agent=Shareext/5.0
-https://zozotv.xyz:443/rozila969/abc12345/693
-
-#EXTINF:-1 tvg-id="HBO Family " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png " group-title="HBO ID",HBO FAMILY ID
-#http://myteve.online:8080/Abraham/6b3ca724a0/197055
-https://s.id/hbofam_shareext-m3u8|User-Agent=Shareext/5.0
-https://zozotv.xyz:443/rozila969/abc12345/98
-
-#EXTINF:-1 tvg-id="HBO HIT" tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png " group-title=" HBO ID",HBO HITS ID
-#http://myteve.online:8080/Abraham/6b3ca724a0/196480
-https://s.id/hbohits_shareext-m3u8|User-Agent=Shareext/5.0
-https://zozotv.xyz:443/rozila969/abc12345/97
-
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png " group-title="HBO ID",HBO SIGNATURE ID
-#http://myteve.online:8080/Abraham/6b3ca724a0/221948
-https://s.id/hbosig_shareext-m3u8|User-Agent=Shareext/5.0
-https://zozotv.xyz:443/rozila969/abc12345/99
 
 
 
