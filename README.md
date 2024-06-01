@@ -148,6 +148,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b9
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://w.nasvpn.xyz:25461/best/best/22890
+http://w.nasvpn.xyz:25461/haji/haji/13313
 https://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8?app_type=web&userid=lite&chname=SCTV
 
 #EXTINF:-1 tvg-logo=" https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="Local",Indosiar 
@@ -1057,8 +1058,10 @@ https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
  
 #EXTINF:0 group-title="Sports " tvg-logo="https://i.imgur.com/xBmmgXe.png",True Premier Football 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+http://w.nasvpn.xyz:25461/haji/haji/13313
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
  
 #EXTINF:0 group-title="Sports " tvg-logo="https://i.imgur.com/HOfAIeF.png",True Premier Football 4
