@@ -35,6 +35,7 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 http://rr3.dens.tv/s/s41/index.m3u8
 
 #EXTINF:-1 group-title=" moji" tvg-id="MOJI" tvg-logo="https://i-meatballs.bunkr.ru/moji-EeCeQVRe.png?download=true",MOJI (iptvtree)
+http://w.nasvpn.xyz:25461/live/haji/haji/13312.m3u8
 http://iptvtree.net:8080/c4596f70/c3848d92/298550
 
 ***********************HBO MY*************************
