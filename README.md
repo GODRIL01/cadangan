@@ -17,7 +17,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://tvgo.my.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://stream-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://win.freemiumiptv.top.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-https://win.freemiumiptv.top/mnclokal/live/eds/Sportstar4/sa_dash_vmx/Sportstar4/Sportstar4.mpd
+https://win.freemiumiptv.top/mnclokal/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 
 
