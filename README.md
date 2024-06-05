@@ -73,7 +73,7 @@ http://iptvtree.net:8080/c4596f70/c3848d92/298550
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTINF:-1 tvg-id="CINEMAX" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://1.bp.blogspot.com/-5c7cU3ULocM/YJZOZAwEdxI/AAAAAAAAEp8/hmQSk7dXX1gqj1VRIEsa4DO-QsSVLsK-gCLcBGAsYHQ/s720/CINEMAX-Poster.png" group-title=" CINEMAX",Cinemax
+#EXTINF:-1 tvg-id="CINEMAX" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png " group-title=" CINEMAX",Cinemax
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/45
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -81,7 +81,7 @@ http://103.155.250.139:25461/v3/Ub5dHa4TJp/45
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTINF:-1 tvg-id="CINEMAX" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo=" " group-title=" CINEMAX",HBO
+#EXTINF:-1 tvg-id="CINEMAX" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png " group-title=" CINEMAX",HBO
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/39
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -89,7 +89,7 @@ http://103.155.250.139:25461/v3/Ub5dHa4TJp/39
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTINF:-1 tvg-id="CINEMAX" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo=" " group-title=" CINEMAX",HBO SIG
+#EXTINF:-1 tvg-id="CINEMAX" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png " group-title=" CINEMAX",HBO SIG
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/43
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -97,7 +97,7 @@ http://103.155.250.139:25461/v3/Ub5dHa4TJp/43
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTINF:-1 tvg-id="CINEMAX" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo=" " group-title=" CINEMAX",HBO HIT
+#EXTINF:-1 tvg-id="CINEMAX" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png " group-title=" CINEMAX",HBO HIT
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/47
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -105,7 +105,7 @@ http://103.155.250.139:25461/v3/Ub5dHa4TJp/47
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTINF:-1 tvg-id="CINEMAX" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo=" " group-title=" CINEMAX",HBO family
+#EXTINF:-1 tvg-id="CINEMAX" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png " group-title=" CINEMAX",HBO family
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/50
 
 
