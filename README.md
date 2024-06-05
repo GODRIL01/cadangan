@@ -18,7 +18,7 @@ https://tvgo.my.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://stream-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://win.freemiumiptv.top/gdp/mncwidevine/?token=Y3Z2R3Exc1J2U0NrY1JncVRrTTV6QT09OjqSFJ8xaq9%2FLpzN%2FPGmViCf
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="RCTI.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rcti-new-logo.png " group-title="duk ",duk
 https://win.freemiumiptv.top/mnclokal/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
