@@ -47,6 +47,16 @@ http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
 http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
 
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="TRUE", [TH]True-PremierLeague 1HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/129
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="TRUE", [TH]True-PremierLeague 2HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/130
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="TRUE", [TH]True-PremierLeague 3HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/102
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="TRUE", [TH]True-PremierLeague 4HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/101
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="TRUE", [TH]TruePremier 5HD 
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/100
 
 
 
