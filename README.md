@@ -16,7 +16,12 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mp
 https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://tvgo.my.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://stream-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-https://win.freemiumiptv.top.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://win.freemiumiptv.top/gdp/mncwidevine/?token=Y3Z2R3Exc1J2U0NrY1JncVRrTTV6QT09OjqSFJ8xaq9%2FLpzN%2FPGmViCf
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="RCTI.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rcti-new-logo.png " group-title="duk ",duk
+https://win.freemiumiptv.top/mnclokal/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 https://win.freemiumiptv.top/mnclokal/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 
