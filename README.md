@@ -5,6 +5,15 @@
 
 #EXTINF:-1 tvg-logo=" " tvg-id="HBOHits.id" tvg-name=" " group-title="HT3", ts
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/01
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/02
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/03
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/05
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/06
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/07
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/08
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/09
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/10
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/11
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/12
@@ -31,6 +40,20 @@ http://103.155.250.139:25461/v3/Ub5dHa4TJp/33
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/34
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/35
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/36
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/37
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/38
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/39
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/40
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/41
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/42
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/43
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/44
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/45
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/46
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/47
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/48
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/49
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/50
 
 *************************************
 
