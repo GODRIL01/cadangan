@@ -105,7 +105,7 @@ http://103.155.250.139:25461/v3/Ub5dHa4TJp/32
 
 
 
-#EXTINF:-1 tvg-logo=" " tvg-id="HBOHits.id" tvg-name=" " group-title="HT3", jowo
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" tvg-id="HBOHits.id" tvg-name=" " group-title="HT3", jowo
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/34
 
