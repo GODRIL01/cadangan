@@ -3,7 +3,23 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 
+#EXTINF:-1 tvg-logo=" " tvg-id="HBOHits.id" tvg-name=" " group-title="HT3", ts
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/10
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/11
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/12
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/13
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/14
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/15
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/16
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/17
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/18
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/19
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/20
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/21
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/22
 
+*************************************
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
