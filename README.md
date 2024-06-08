@@ -3,7 +3,7 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 
-#EXTINF:-1 tvg-logo=" " tvg-id="HBOHits.id" tvg-name=" " group-title="HT3", ts
+#EXTINF:-1 tvg-logo=" " tvg-id="HBOHits.id" tvg-name=" " group-title="HT3", news
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/01
 
@@ -121,48 +121,20 @@ http://103.155.250.139:25461/v3/Ub5dHa4TJp/38
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/39
 
-#EXTINF:-1 tvg-logo=" " tvg-id="HBOHits.id" tvg-name=" " group-title="HT3", ts
+
+
+#EXTINF:-1 tvg-logo=" " tvg-id="HBOHits.id" tvg-name=" " group-title="HT3", cinemax
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/41
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/42
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/43
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/44
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/45
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/46
+
+#EXTINF:-1 tvg-logo=" " tvg-id="HBOHits.id" tvg-name=" " group-title="HT3", hbo hits
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/47
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/48
+
+#EXTINF:-1 tvg-logo=" " tvg-id="HBOHits.id" tvg-name=" " group-title="HT3", hbo family
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/49
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/50
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/51
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/52
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/53
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/54
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/55
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/56
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/57
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/58
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/59
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/60
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/61
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/62
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/63
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/64
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/65
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/66
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/67
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/68
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/69
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/70
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/71
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/72
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/73
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/74
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/75
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/76
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/77
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/78
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/79
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/80
+
 
 
 
