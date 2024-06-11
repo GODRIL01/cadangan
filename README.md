@@ -3,6 +3,19 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 
+#EXTM3U
+#EXTINF:-1,Unknown 0
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/129
+
+#EXTINF:-1,Unknown 1
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/130
+
+#EXTINF:-1,Unknown 8
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/137
+
+#EXTINF:-1,Unknown 9
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/138
+
 #EXTINF:-1 tvg-logo=" " tvg-id="HBOHits.id" tvg-name=" " group-title="HT3", news
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/01
