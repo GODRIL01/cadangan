@@ -1133,9 +1133,6 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/b
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 ********************************** TRUE PREMIER
-#EXTINF:-1 group-title="SPORTS  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png ",Bein sports 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://sport.livedoomovies.com:4433/02_epl1_720p/chunklist.m3u8|Referer=https://www.youdooball.com/
 
 
 #EXTINF:-1 group-title="SPORTS  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png ",Bein sports 1
