@@ -159,10 +159,6 @@ http://210.210.155.35/x6bnqe/s/s41/index.m3u8
 
 
 
-
-
-
-
 *****************************************************************************************************
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -296,11 +292,9 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PONTV.id" tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/pontv-logo-new-2018.png " group-title="NASIONAL ",PONTV
 https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="ADI TV.id" tvg-logo="http://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-5.png " group-title="NASIONAL ",ADI TV
-https://v2.siar.us/aditv/livestream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: TATV" tvg-logo=" https://static.wikia.nocookie.net/logo-tv/images/2/2a/TATV_%282010%29.png " group-title=" NASIONAL ",TATV
+https://nin.siar.us/tatv/live.sdp/chunks.m3u8?nimblesessionid=2680355
 
 ******************************************************MOVIES**************************************************************
 
