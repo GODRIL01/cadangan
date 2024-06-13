@@ -177,7 +177,7 @@ http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
 ****************************************** TRUE PREMIER
 
 #EXTINF:0 group-title="TRUE PREMIER" tvg-logo="https://s.id/1d1Gl ",Bein sports 1 M
-#EXTVLCOPT:http-user-agent=NontonTV/2.6(Android11)
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.4 (Linux;Android 11; 19fjhri) ExoPlayerLib/2.15.1
 https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 #EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://s.id/1d1HB ",Bein sports 3 M
