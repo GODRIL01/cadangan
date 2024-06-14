@@ -252,12 +252,22 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/130
 
 #EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png " group-title="TRUE",True-PremierLeague 2 HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/102
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/103
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/104
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/105
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/106
+
 
 #EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png " group-title="TRUE",True-PremierLeague 4HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/101
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="TRUE",TruePremier 5HD 
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/100
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/199
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/198
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/197
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/196
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/195
 
 
 
