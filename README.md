@@ -247,19 +247,19 @@ http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186615&ex
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186616&extension=ts&play_shareext@beinsport3TH.ts
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="TRUE", [TH]True-PremierLeague 1HD
+#EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png " group-title="TRUE", [TH]True-PremierLeague 1HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/129
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="TRUE", [TH]True-PremierLeague 2HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="TRUE", [TH]True-PremierLeague 2HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/130
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="TRUE", [TH]True-PremierLeague 3HD
+#EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png " group-title="TRUE", [TH]True-PremierLeague 3HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/102
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="TRUE", [TH]True-PremierLeague 4HD
+#EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png " group-title="TRUE", [TH]True-PremierLeague 4HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/101
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="TRUE", [TH]TruePremier 5HD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="TRUE", [TH]TruePremier 5HD 
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/100
 
 
