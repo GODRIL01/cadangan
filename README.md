@@ -239,7 +239,7 @@ https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186614&extension=ts&play_shareext@beinsport1TH.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 2 HD TRUE" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="sTRUE",BeINSports•2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 2 HD TRUE" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="TRUE",BeINSports•2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186615&extension=ts&play_shareext@beinsport2TH.ts
 
