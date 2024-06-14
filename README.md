@@ -176,6 +176,7 @@ http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
 
 ****************************************** TRUE PREMIER
 
+
 #EXTINF:0 group-title="TRUE PREMIER" tvg-logo="https://s.id/1d1Gl ",Bein sports 1 M
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.4 (Linux;Android 11; 19fjhri) ExoPlayerLib/2.15.1
 https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
@@ -232,6 +233,15 @@ https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
 
+
+#.:-1 tvg-id="" tvg-name="Thai BeIN Sports 1 HD TRUE]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title=" TRUE",BeINSports•1 HD[THAI]_dec=auto
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186614&extension=ts&play_shareext@beinsport1TH.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 2 HD TRUE" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title=" TRUE",BeINSports•2 HD[THAI]_dec=auto
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186615&extension=ts&play_shareext@beinsport2TH.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 3 HD TRUE" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title=" TRUE",BeINSports•3 HD[THAI]_dec=auto
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186616&extension=ts&play_shareext@beinsport3TH.ts
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="TRUE", [TH]True-PremierLeague 1HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/129
