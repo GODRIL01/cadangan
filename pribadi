@@ -294,8 +294,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: TATV" tvg-logo=" https://static.wikia.nocookie.net/logo-tv/images/2/2a/TATV_%282010%29.png " group-title=" NASIONAL ",TATV
-https://nin.siar.us/tatv/live.sdp/chunks.m3u8?nimblesessionid=2680355
-
+https://nin.siar.us/tatv/live.sdp/chunks.m3u8?nimblesessionid=2681947
 ******************************************************MOVIES**************************************************************
 
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png" tvg-id="HBO.id" tvg-name="HBO " group-title="HBO GROUP", HBO 
