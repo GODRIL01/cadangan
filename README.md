@@ -4,15 +4,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title="Belzie_TV", Belzie_TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title=" IMBIS TV
+", IMBIZ TV
 https://www.dropbox.com/scl/fi/f00bakcphzt6wbyno8cx8/YouCut_20240617_180133897.mp4?rlkey=kgaqwsj29yy3okey7kvq3ajb3&dl=1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title="Belzie_TV", Belzie_TV
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/llt89h59qq52e20fiw638/images.png?rlkey=clkul8ksdwz2fwfxvg17doj0c&st=usvty699&dl=0 " group-title="Belzie_TV", Belzie_TV
 https://www.dropbox.com/scl/fi/g6okpw2is6vis7hr8aqis/lv_7153467251230805250_20240121145059.mp4?rlkey=dpmqddfhqcpd1y7e52g4h8prc&dl=1
 
-#EXTINF:-1 tvg-logo=" " tvg-id="HBOHits.id" tvg-name=" " group-title="HT3", news
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/01
 
 #EXTINF:-1 tvg-logo=" " tvg-id="HBOHits.id" tvg-name=" " group-title="HT3", sindo
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
