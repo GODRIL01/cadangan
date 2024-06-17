@@ -4,7 +4,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 
 #EXTINF:-1 tvg-logo=" " tvg-id="donasi.id" tvg-name=" " group-title="A", donasi
-https://www.dropbox.com/scl/fi/f00bakcphzt6wbyno8cx8/YouCut_20240617_180133897.mp4?rlkey=kgaqwsj29yy3okey7kvq3ajb3&dl=0
+https://www.dropbox.com/scl/fi/f00bakcphzt6wbyno8cx8/YouCut_20240617_180133897.mp4?rlkey=kgaqwsj29yy3okey7kvq3ajb3&dl=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title="Belzie_TV", Belzie_TV
+https://www.dropbox.com/scl/fi/g6okpw2is6vis7hr8aqis/lv_7153467251230805250_20240121145059.mp4?rlkey=dpmqddfhqcpd1y7e52g4h8prc&dl=1
 
 #EXTINF:-1 tvg-logo=" " tvg-id="HBOHits.id" tvg-name=" " group-title="HT3", news
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
