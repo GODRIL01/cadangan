@@ -3,7 +3,7 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh=360
 
-#EXTINF:-1 tvg-id=".Id" tvg-logo="https://www.dropbox.com/scl/fi/rdvn841ze4hkb8nk8z1uo/AddText_06-18-06.05.32.png?rlkey=nfzj7jv71kdh0mikjz0g3yqa5&st=ofbhj1bj&dl=0 " group-title="DONASI ",Donasi
+#EXTINF:-1 tvg-id="imbis.Id" tvg-logo="https://www.dropbox.com/scl/fi/rdvn841ze4hkb8nk8z1uo/AddText_06-18-06.05.32.png?rlkey=nfzj7jv71kdh0mikjz0g3yqa5&st=ofbhj1bj&dl=0 " group-title="DONASI ",Donasi
 https://www.dropbox.com/scl/fi/f00bakcphzt6wbyno8cx8/YouCut_20240617_180133897.mp4?rlkey=kgaqwsj29yy3okey7kvq3ajb3&dl=1
 
 
