@@ -10,6 +10,8 @@ https://www.dropbox.com/scl/fi/f00bakcphzt6wbyno8cx8/YouCut_20240617_180133897.m
 
 
 #EXTINF:-1 tvg-logo=" " tvg-id="HBOHits.id" tvg-name=" " group-title="HT3", sindo
+https://www.dropbox.com/scl/fi/f00bakcphzt6wbyno8cx8/YouCut_20240617_180133897.mp4?rlkey=kgaqwsj29yy3okey7kvq3ajb3&dl=1
+
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/02
 
