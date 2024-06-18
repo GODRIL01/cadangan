@@ -4,7 +4,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh=360
 
 
-#EXTINF:-1 tvg-id=" id" tvg-name=" id" tvg-logo=" https://www.mediafire.com/view/09rzxpkhw5phh5w/AddText_06-18-06.05.32.png/file " group-title="IMBIS",imbis tv
+#EXTINF:-1 tvg-id=" id" tvg-name=" id" tvg-logo=" https://raw.githubusercontent.com/GODRIL01/cadangan/main/png " group-title="IMBIS",imbis tv
 https://www.dropbox.com/scl/fi/f00bakcphzt6wbyno8cx8/YouCut_20240617_180133897.mp4?rlkey=kgaqwsj29yy3okey7kvq3ajb3&dl=1
 
 
