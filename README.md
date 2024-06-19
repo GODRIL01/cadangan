@@ -7,14 +7,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh=360
 
 
-#EXTINF:-1 tvg-id=" id" tvg-name=" id" tvg-logo="![340897667-1dd0a9ce-10f7-46ce-af4c-a545f07c47dc](https://github.com/GODRIL01/cadangan/assets/120766521/5dc7e04c-9381-447d-b9d3-e3b8ef21a08e)
- " group-title="IMBIS",imbis tv
+#EXTINF:-1 tvg-id=" id" tvg-name=" id" tvg-logo="https://imgur.com/RBMiTTB " group-title="IMBIS",imbis tv
 https://www.dropbox.com/scl/fi/f00bakcphzt6wbyno8cx8/YouCut_20240617_180133897.mp4?rlkey=kgaqwsj29yy3okey7kvq3ajb3&dl=1
 
 
 
-#EXTINF:-1 tvg-logo=" " tvg-id="HBOHits.id" tvg-name=" " group-title="HT3", sindo
-https://www.dropbox.com/scl/fi/f00bakcphzt6wbyno8cx8/YouCut_20240617_180133897.mp4?rlkey=kgaqwsj29yy3okey7kvq3ajb3&dl=1
+
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/02
