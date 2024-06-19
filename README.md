@@ -6,7 +6,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh=360
 
 
-#EXTINF:-1 tvg-id=" id" tvg-name=" id" tvg-logo="https://github-production-user-asset-6210df.s3.amazonaws.com/120766521/340897667-1dd0a9ce-10f7-46ce-af4c-a545f07c47dc.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240619%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240619T030244Z&X-Amz-Expires=300&X-Amz-Signature=fbccb58b067a928ac4b4811352898e1dc9735c03840baeb088b51815d1f300e9&X-Amz-SignedHeaders=host&actor_id=120766521&key_id=0&repo_id=713722008 " group-title="IMBIS",imbis tv
+#EXTINF:-1 tvg-id=" id" tvg-name=" id" tvg-logo="![340897667-1dd0a9ce-10f7-46ce-af4c-a545f07c47dc](https://github.com/GODRIL01/cadangan/assets/120766521/5dc7e04c-9381-447d-b9d3-e3b8ef21a08e)
+ " group-title="IMBIS",imbis tv
 https://www.dropbox.com/scl/fi/f00bakcphzt6wbyno8cx8/YouCut_20240617_180133897.mp4?rlkey=kgaqwsj29yy3okey7kvq3ajb3&dl=1
 
 
