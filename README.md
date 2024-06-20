@@ -8,7 +8,8 @@
 
 
 #EXTINF:-1 tvg-id=" id" tvg-name=" id" tvg-logo="https://i.imgur.com/JwAvhqu_d.webp?maxwidth=128&shape=square " group-title="IMBIS",imbis tv
-https://www.dropbox.com/scl/fi/f00bakcphzt6wbyno8cx8/YouCut_20240617_180133897.mp4?rlkey=kgaqwsj29yy3okey7kvq3ajb3&dl=1
+https://raw.githubusercontent.com/GODRIL01/cadangan/main/m3u8
+
 
 
 
