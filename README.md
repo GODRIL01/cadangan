@@ -217,7 +217,7 @@ https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8|Referer=h
 #EXTINF:-1 group-title="TRUE PREMIER " tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier 1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+https://sport.livedoomovies.com:4433/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="TRUE PREMIER " tvg-logo=" ",True Premier 2
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
