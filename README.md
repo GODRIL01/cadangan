@@ -143,7 +143,7 @@ http://103.155.250.139:25461/v3/Ub5dHa4TJp/47
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/49
 
-#EXTINF:-1 tvg-logo=" " tvg-id=".id" tvg-name=" " group-title="copa america", takamtv
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/TVMax#/media/File%3ALogo_tvmax.png " tvg-id=".id" tvg-name=" " group-title="copa america", takamtv
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/profile_3/chunklist_dvr.m3u8
 
