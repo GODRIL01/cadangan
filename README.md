@@ -16,11 +16,18 @@ https://imgur.com/hHSW9KV
 
 
 
+
+
+
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/02
 
-#EXTINF:-1 tvg-logo=" " tvg-id="HBOHits.id" tvg-name=" " group-title="HT3", mentari
+#EXTINF:-1 tvg-logo=" " tvg-id="HBOHits.id" tvg-name=" " group-title="as", astro
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://iptvkita.my.id:25461/dirga/dirga/3517
+http://iptvkita.my.id:25461/dirga/dirga/1813
+http://iptvkita.my.id:25461/dirga/dirga/1814
+http://iptvkita.my.id:25461/dirga/dirga/1815
 http://103.160.62.198:25461/dirga/dirga/1812?token=GkAOVEtYFlwTBVFVX1IBA1RbUQxVDgdXA1JVBwkPCFcDBlMGAFJWAAJETUcVQEJQA1U9UQUVXlQNAQIaE01KUBM9D1EaChZXCFRQR0oWRFwPXUACUABVXAUECAcACRUXEQsCFwISDVADV0NJRFFIQQdKDFkNaAAAQ1lTUxMCV0ANDkoXV15rAlQLAAsCFgoXUhpOGghEFEcPXkVaXRQbVwgWFFRMVRZcE1JXU1YWHBcBVxdWFUUdRw8SeXITFBtQGRYDW0tZWwgTXEMRFRYcFwtLPUoERBAXUFFdU0MaAxdRQEoXVVFMOVIJDwsDV0RcDVYRGlsVVUcZEl1ZX1FNWhM9FlxcEg5ECFNYV0RJ
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/03
 
