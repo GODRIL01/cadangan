@@ -7,7 +7,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh=360
 
 
-#EXTINF:-1 tvg-id=" id" tvg-name=" id" tvg-logo="https://i.imgur.com/JwAvhqu_d.webp?maxwidth=128&shape=square " group-title="IMBIS",imbis tv
+#EXTINF:-1 tvg-id=" id" tvg-name=" id" tvg-logo="https://i.imgur.com/ejeR6GH.png " group-title="IMBIS",imbis tv
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", SOCCER CHANEL
