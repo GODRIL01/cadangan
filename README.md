@@ -36,8 +36,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRpl
 
 ************************************************************************
 
+#EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="moji" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="indihome ", moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/moji/manifest.mpd
 
-#EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/VBdqiAz.png " group-title="indihome ", sctv 
+#EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://hometv.pw/logo/lokal/sctv.png " group-title="indihome ", sctv 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
