@@ -126,62 +126,35 @@ http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
 ****************************************** TRUE PREMIER
 
 
-#EXTINF:0 group-title="TRUE PREMIER" tvg-logo="https://s.id/1d1Gl ",Bein sports 1 M
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.4 (Linux;Android 11; 19fjhri) ExoPlayerLib/2.15.1
+#EXTINF:0 group-title="TRUE PREMIER" tvg-logo="https://s.id/1d1Gl ",Bein sports 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://s.id/1d1HB ",Bein sports 3 M
-#EXTVLCOPT:http-user-agent=NontonTV/2.6(Android11)
+#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://s.id/1d1HB ",Bein sports 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://i.imgur.com/9FJknMK.png",True Premier Football 1 M
-#EXTVLCOPT:http-user-agent=NontonTV/2.6(Android11)
+#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://i.imgur.com/9FJknMK.png",True Premier Football 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://i.imgur.com/yS94g00.png",True Premier Football 2 M
+#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://i.imgur.com/yS94g00.png",True Premier Football 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://i.imgur.com/xBmmgXe.png",True Premier Football 3 M
+#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://i.imgur.com/xBmmgXe.png",True Premier Football 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://i.imgur.com/HOfAIeF.png",True Premier Football 4 M
+#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://i.imgur.com/HOfAIeF.png",True Premier Football 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://i.imgur.com/IAvYAOR.png",True Premier Football 5 M
+#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://i.imgur.com/IAvYAOR.png",True Premier Football 5 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-********************************************************************************************************************************
 
-#EXTINF:-1 group-title="TRUE PREMIER " tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier 1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://sport.livedoomovies.com:4433/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="TRUE PREMIER " tvg-logo=" ",True Premier 2
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="TRUE PREMIER " tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png",True Premier 3
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="TRUE PREMIER " tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png",True Premier 4
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="TRUE PREMIER " tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png",True Premier 5
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
-
-
+***************************************************************************************************************************
 
 
 #EXTINF:-1 tvg-logo=" " group-title="TRUE",True bein 1
