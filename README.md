@@ -184,18 +184,22 @@ http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186615&ex
 #EXTINF:-1 tvg-logo=" " group-title="TRUE",True bein 3
 http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186616&extension=ts&play_shareext@beinsport3TH.ts
 
-#EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png " group-title="TRUE",True-PremierLeague 1HD
+#EXTINF:-1 tvg-logo=" " group-title="TRUE",True Premier 1
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/129
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="TRUE", [TH]True-PremierLeague 2HD
+#EXTINF:-1 tvg-logo=" " group-title="TRUE", True Premier 2
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/130
 
-#EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png " group-title="TRUE",True-PremierLeague 2 HD
+#EXTINF:-1 tvg-logo=" " group-title="TRUE",True Premier 3
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/102
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/103
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/104
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/105
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/106
+
+#EXTINF:-1 tvg-logo=" " group-title="TRUE",True Premier 3
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/101
+
+#EXTINF:-1 tvg-logo=" " group-title="TRUE",True Premier 4
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/100
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/99
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/98
 
 
 #EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png " group-title="TRUE",True-PremierLeague 4HD
