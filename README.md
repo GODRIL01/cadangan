@@ -126,11 +126,11 @@ http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
 ****************************************** TRUE PREMIER
 
 
-#EXTINF:0 group-title="TRUE PREMIER" tvg-logo="https://s.id/1d1Gl ",Bein sports 1 
+#EXTINF:0 group-title="TRUE PREMIER" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein sports 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://s.id/1d1HB ",Bein sports 3 
+#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png ",Bein sports 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
@@ -138,23 +138,25 @@ https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8|Referer=https:/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 group-title="TRUE PREMIER " tvg-logo=" ",True Premier Football 2 
+#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png ",True Premier Football 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://i.imgur.com/xBmmgXe.png",True Premier Football 3 
+#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png ",True Premier Football 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://i.imgur.com/HOfAIeF.png",True Premier Football 4 
+#EXTINF:0 group-title="TRUE PREMIER " tvg-logo=" https://truevisions.co.th/static/1be50729-1560-4f16-88a8-6ac653afe8e1.png ",True Premier Football 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://i.imgur.com/IAvYAOR.png",True Premier Football 5 
+#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp ",True Premier Football 5 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 ***************************************************************************************************************************
+
+
 
 
 #EXTINF:-1 tvg-logo=" " group-title="TRUE",True bein 1
