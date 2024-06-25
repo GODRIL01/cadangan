@@ -193,13 +193,23 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/130
 #EXTINF:-1 tvg-logo=" " group-title="TRUE",True Premier 3
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/102
 
-#EXTINF:-1 tvg-logo=" " group-title="TRUE",True Premier 3
+#EXTINF:-1 tvg-logo=" " group-title="TRUE",True Premier 4
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/101
 
-#EXTINF:-1 tvg-logo=" " group-title="TRUE",True Premier 4
+#EXTINF:-1 tvg-logo=" " group-title="TRUE",True Premier 5
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/100
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/99
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/98
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/97
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/96
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/95
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/94
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/93
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/92
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/91
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/90
+
+
 
 
 
