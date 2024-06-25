@@ -134,11 +134,11 @@ https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8|Referer=https:/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://i.imgur.com/9FJknMK.png",True Premier Football 1 
+#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png ",True Premier Football 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 group-title="TRUE PREMIER " tvg-logo="https://i.imgur.com/yS94g00.png",True Premier Football 2 
+#EXTINF:0 group-title="TRUE PREMIER " tvg-logo=" ",True Premier Football 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
