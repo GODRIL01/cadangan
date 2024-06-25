@@ -183,13 +183,16 @@ https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 1 HD TRUE]" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="TRUE",BeINSports•1 HD
+
+#EXTINF:-1 tvg-logo=" " group-title="TRUE",True bein 1
 http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186614&extension=ts&play_shareext@beinsport1TH.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 2 HD TRUE" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="TRUE",BeINSports•2 HD
+
+#EXTINF:-1 tvg-logo=" " group-title="TRUE",True bein 2
 http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186615&extension=ts&play_shareext@beinsport2TH.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 3 HD TRUE" tvg-logo="https://i.ibb.co/bNxxFJh/True-Sports-shareext.jpg" group-title="TRUE",BeINSports•3 HD
+
+#EXTINF:-1 tvg-logo=" " group-title="TRUE",True bein 3
 http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186616&extension=ts&play_shareext@beinsport3TH.ts
 
 #EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png " group-title="TRUE",True-PremierLeague 1HD
