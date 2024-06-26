@@ -17,7 +17,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,"refresh="3600"
 
-#EXTINF:-1 tvg-id=" id" tvg-name=" id" tvg-logo="https://i.imgur.com/ejeR6GH.png " group-title="IMBIS",imbis tv
+#EXTINF:-1 tvg-id=" id" tvg-name=" id" tvg-logo="https://i.imgur.com/ejeR6GH.png " group-title="AMBYAR",imbis tv
 https://streaming.campursarifm.com/listen/campursari/campursari892
 
 
