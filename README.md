@@ -8,6 +8,7 @@
 
 
 #EXTINF:-1 tvg-id=" id" tvg-name=" id" tvg-logo="https://i.imgur.com/ejeR6GH.png " group-title="IMBIS",imbis tv
+https://s1.gntr.net/listen/radio_gentara/gentara64
 https://streaming.campursarifm.com/listen/campursari/campursari892
 
 
