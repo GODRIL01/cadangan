@@ -180,26 +180,26 @@ https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186614&extension=ts&play_shareext@beinsport1TH.ts
 
 
-#EXTINF:-1 tvg-logo=" " group-title="TRUE",True bein 2
+#EXTINF:-1 tvg-logo=" " group-title="TRUE GMLIVE",True bein 2
 http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186615&extension=ts&play_shareext@beinsport2TH.ts
 
 
-#EXTINF:-1 tvg-logo=" " group-title="TRUE",True bein 3
+#EXTINF:-1 tvg-logo=" " group-title="TRUE GMLIVE",True bein 3
 http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186616&extension=ts&play_shareext@beinsport3TH.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="TRUE",True Premier 1
+#EXTINF:-1 tvg-logo=" " group-title="TRUE GMLIVE",True Premier 1
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/129
 
-#EXTINF:-1 tvg-logo=" " group-title="TRUE", True Premier 2
+#EXTINF:-1 tvg-logo=" " group-title="TRUE GMLIVE", True Premier 2
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/130
 
-#EXTINF:-1 tvg-logo=" " group-title="TRUE",True Premier 3
+#EXTINF:-1 tvg-logo=" " group-title="TRUE GMLIVE",True Premier 3
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/102
 
-#EXTINF:-1 tvg-logo=" " group-title="TRUE",True Premier 4
+#EXTINF:-1 tvg-logo=" " group-title="TRUE GMLIVE",True Premier 4
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/101
 
-#EXTINF:-1 tvg-logo=" " group-title="TRUE",True Premier 5
+#EXTINF:-1 tvg-logo=" " group-title="TRUE GMLIVE",True Premier 5
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/1
 
 
