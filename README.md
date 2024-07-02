@@ -755,6 +755,8 @@ https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 
 ******************************************************MOVIES**************************************************************
+
+
 #EXTGRP:HBO Cubmu
 #EXTINF:0 tvg-id="HBOAsia.sg" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO.jpg",HBO (Cubmu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -792,6 +794,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 
 
 ****************************************************HBO TH**********************************************
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO"
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="HBO TH",HBO TH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -866,7 +869,7 @@ https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0c
 
 
 **********************************************************************************************
-
+#EXTINF:-1 group-logo="https://w7.pngwing.com/pngs/314/157/png-transparent-logo-clapperboard-product-design-marketing-movie-tape-text-service-logo.png" group-title="MOVIES"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1014,6 +1017,7 @@ https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/3000.m3u8
 http://210.210.155.35/session/dc04a98e-793d-11ed-991d-c81f66f89318/uq2663/h/h08/index.m3u8
 
 ****************************************************Kids*******************************************************************
+#EXTINF:-1 group-logo="https://i.pinimg.com/originals/2e/89/59/2e895922d5033dfe3b03aefb32291676.png" group-title="KIDS"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1065,6 +1069,8 @@ https://testfunctionlive.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 https://testfunctionlive.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
 *******************************************Entertainment*******************************************************************
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/YG_Entertainment_Logo.svg/1280px-YG_Entertainment_Logo.svg.png" group-title="ENTERTAINMENT"
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1133,6 +1139,8 @@ https://testfunctionlive.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
 ***********************************************Lifestyle******************************************************************
+#EXTINF:-1 group-logo="https://seeklogo.com/images/L/lifestyle-logo-07AC8D4FDE-seeklogo.com.png" group-title="LIFESTYLE "
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1178,6 +1186,7 @@ https://testfunctionlive.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/Crime
 https://testfunctionlive.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
 
 ********************************************Documentary******************************************************************* 
+#EXTINF:-1 group-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" group-title="DOCUMENTARY "
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1210,6 +1219,7 @@ https://testfunctionlive.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 https://testfunctionlive.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 ************************************************* SPORTS *************************************************************
+#EXTINF:-1 group-logo="https://png.pngtree.com/png-vector/20220119/ourmid/pngtree-sports-logo-icon-picture-png-image_4225320.png" group-title="SPORTS "
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1322,6 +1332,8 @@ https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=h
 
 
 ******************************************************News****************************************************************  
+#EXTINF:-1 group-logo="https://w7.pngwing.com/pngs/982/544/png-transparent-news-graphy-logo-icon-news-logo-text-photography-computer-wallpaper-thumbnail.png" group-title="NEWS "
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1380,6 +1392,7 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w754412833_b3884000_s
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1028346365_b384000_sleng.m3u8
 
 ****************************************************RELIGION***************************************************************
+#EXTINF:-1 group-logo="https://w7.pngwing.com/pngs/125/239/png-transparent-religion-religious-symbol-religion-symbol-s-text-logo-symmetry.png" group-title="RELIGION "
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1436,6 +1449,7 @@ https://testfunctionlive.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 https://testfunctionlive.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 **************************************MUSIC********************************************************************************
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="MUSIC "
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1462,6 +1476,7 @@ https://testfunctionlive.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
 
 ****************************************FTA International***************************************************************** 
+#EXTINF:-1 group-logo="https://foreigntradeassociation.com/wp-content/uploads/2024/04/FTA-new-logo.png" group-title="FTA International "
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
