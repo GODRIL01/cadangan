@@ -176,7 +176,7 @@ https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="TRUE",True bein 1
+#EXTINF:-1 tvg-logo=" " group-title="TRUE GMLIVE",True bein 1
 http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186614&extension=ts&play_shareext@beinsport1TH.ts
 
 
