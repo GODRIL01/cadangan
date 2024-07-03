@@ -54,78 +54,6 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 ********************************************************************************
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/02
-
-#EXTINF:-1 tvg-logo=" " tvg-id="HBOHits.id" tvg-name=" " group-title="as", astro
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://iptvkita.my.id:25461/dirga/dirga/3517
-http://iptvkita.my.id:25461/dirga/dirga/1813
-http://iptvkita.my.id:25461/dirga/dirga/1814
-http://iptvkita.my.id:25461/dirga/dirga/1815
-http://103.160.62.198:25461/dirga/dirga/1812?token=GkAOVEtYFlwTBVFVX1IBA1RbUQxVDgdXA1JVBwkPCFcDBlMGAFJWAAJETUcVQEJQA1U9UQUVXlQNAQIaE01KUBM9D1EaChZXCFRQR0oWRFwPXUACUABVXAUECAcACRUXEQsCFwISDVADV0NJRFFIQQdKDFkNaAAAQ1lTUxMCV0ANDkoXV15rAlQLAAsCFgoXUhpOGghEFEcPXkVaXRQbVwgWFFRMVRZcE1JXU1YWHBcBVxdWFUUdRw8SeXITFBtQGRYDW0tZWwgTXEMRFRYcFwtLPUoERBAXUFFdU0MaAxdRQEoXVVFMOVIJDwsDV0RcDVYRGlsVVUcZEl1ZX1FNWhM9FlxcEg5ECFNYV0RJ
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/03
-
-#EXTINF:-1 tvg-logo=" " tvg-id=".id" tvg-name=" " group-title="donatelo", dona
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://mohdtv.com:8880/voby2001/64865185/61070
-http://mohdtv.com:8880/voby2001/64865185/61071
-http://mohdtv.com:8880/voby2001/64865185/61072
-http://mohdtv.com:8880/voby2001/64865185/61073
-http://mohdtv.com:8880/voby2001/64865185/61074
-http://mohdtv.com:8880/voby2001/64865185/61075
-http://mohdtv.com:8880/voby2001/64865185/61076
-http://mohdtv.com:8880/voby2001/64865185/61077
-http://mohdtv.com:8880/voby2001/64865185/61078
-http://mohdtv.com:8880/voby2001/64865185/61079
-http://mohdtv.com:8880/voby2001/64865185/61080
-http://mohdtv.com:8880/voby2001/64865185/61081
-http://mohdtv.com:8880/voby2001/64865185/61082
-http://mohdtv.com:8880/voby2001/64865185/61083
-http://mohdtv.com:8880/voby2001/64865185/61084
-http://mohdtv.com:8880/voby2001/64865185/61085
-http://mohdtv.com:8880/voby2001/64865185/61086
-http://mohdtv.com:8880/voby2001/64865185/61087
-http://mohdtv.com:8880/voby2001/64865185/61088
-http://mohdtv.com:8880/voby2001/64865185/61089
-http://mohdtv.com:8880/voby2001/64865185/61090
-http://mohdtv.com:8880/voby2001/64865185/61091
-http://mohdtv.com:8880/voby2001/64865185/61092
-http://mohdtv.com:8880/voby2001/64865185/61093
-http://mohdtv.com:8880/voby2001/64865185/61094
-http://mohdtv.com:8880/voby2001/64865185/61095
-http://mohdtv.com:8880/voby2001/64865185/61096
-http://mohdtv.com:8880/voby2001/64865185/61097
-http://mohdtv.com:8880/voby2001/64865185/61099
-http://mohdtv.com:8880/voby2001/64865185/61100
-http://mohdtv.com:8880/voby2001/64865185/61101
-http://mohdtv.com:8880/voby2001/64865185/61102
-http://mohdtv.com:8880/voby2001/64865185/61103
-http://mohdtv.com:8880/voby2001/64865185/61104
-http://mohdtv.com:8880/voby2001/64865185/61105
-http://mohdtv.com:8880/voby2001/64865185/61106
-http://mohdtv.com:8880/voby2001/64865185/61107
-http://mohdtv.com:8880/voby2001/64865185/61108
-http://mohdtv.com:8880/voby2001/64865185/61109
-http://mohdtv.com:8880/voby2001/64865185/61110
-http://mohdtv.com:8880/voby2001/64865185/61111
-http://mohdtv.com:8880/voby2001/64865185/61111
-http://mohdtv.com:8880/voby2001/64865185/61113
-http://mohdtv.com:8880/voby2001/64865185/61114
-http://mohdtv.com:8880/voby2001/64865185/61115
-http://mohdtv.com:8880/voby2001/64865185/61116
-http://mohdtv.com:8880/voby2001/64865185/61117
-http://mohdtv.com:8880/voby2001/64865185/61118
-http://mohdtv.com:8880/voby2001/64865185/61119
-http://mohdtv.com:8880/voby2001/64865185/61120
-http://mohdtv.com:8880/voby2001/64865185/61121
-http://mohdtv.com:8880/voby2001/64865185/61122
-http://mohdtv.com:8880/voby2001/64865185/61123
-http://mohdtv.com:8880/voby2001/64865185/61124
-http://mohdtv.com:8880/voby2001/64865185/61125
-http://mohdtv.com:8880/voby2001/64865185/61126
-
-
 
 
 #EXTINF:-1 tvg-logo=" " tvg-id="moji.id" tvg-name=" " group-title="HT3", moji
@@ -173,8 +101,8 @@ https://cempedak-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3U8
 
 #EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMTEX",INDOSIAR
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://103.237.32.213:9981/stream/channelid/1572990837?profile=pass
-https://cempedak-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3U8
+https://s.id/indosiarHD_shareext-xs
+
 
 #EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMTEX",SCTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
