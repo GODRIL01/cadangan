@@ -12,6 +12,27 @@ https://s1.gntr.net/listen/radio_gentara/gentara64
 https://streaming.campursarifm.com/listen/campursari/campursari892
 
 
+#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/117.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/110.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/111.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/112.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/113.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/114.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/115.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/116.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/118.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/119.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/120.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/121.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/122.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/123.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/124.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/125.ts
+
+
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", SOCCER CHANEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
