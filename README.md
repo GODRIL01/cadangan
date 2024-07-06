@@ -15,25 +15,25 @@ https://streaming.campursarifm.com/listen/campursari/campursari892
 #EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/117.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/070.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/071.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/072.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/073.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/074.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/075.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/077.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/078.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/079.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/080.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/081.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/082.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/083.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/084.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/085.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/086.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/087.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/088.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/069.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/40.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/041.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/042.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/043.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/044.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/045.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/047.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/048.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/049.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/050.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/051.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/052.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/053.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/054.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/055.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/056.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/057.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/058.ts
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/039.ts
 
 
 
