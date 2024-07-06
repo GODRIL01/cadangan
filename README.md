@@ -116,6 +116,17 @@ http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
 
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="moji", MOJI hmtv
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/117.ts
+ 
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="moji", MOJI 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/4
+
+
+
 ****************************************** TRUE PREMIER
 
 
