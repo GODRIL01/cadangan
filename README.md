@@ -12,6 +12,14 @@ https://s1.gntr.net/listen/radio_gentara/gentara64
 https://streaming.campursarifm.com/listen/campursari/campursari892
 
 
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="LIVE EVENT", LIVE 4
+http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
+http://xtv.ooo:8080/Ijaaz123/aijaz321/350998
+http://xtv.ooo:8080/Ijaaz123/aijaz321/350999
+http://xtv.ooo:8080/Ijaaz123/aijaz321/350996
+http://xtv.ooo:8080/Ijaaz123/aijaz321/350995
+
+
 #EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/117.ts
