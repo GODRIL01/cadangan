@@ -11,16 +11,36 @@
 https://s1.gntr.net/listen/radio_gentara/gentara64
 https://streaming.campursarifm.com/listen/campursari/campursari892
 
+
+
+#EXTINF:-1 tvg-logo=" " tvg-id="id" tvg-name=" " group-title="H", bein sports 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/901.ts
+
+#EXTINF:-1 tvg-logo=" " tvg-id="id" tvg-name=" " group-title="H", bein sports 4
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/902.ts
+
+#EXTINF:-1 tvg-logo=" " tvg-id="id" tvg-name=" " group-title="H", bein sports 5
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/905.ts
+
+#EXTINF:-1 tvg-logo=" " tvg-id="id" tvg-name=" " group-title="H", bein sports 6
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/904.ts
+
+#EXTINF:-1 tvg-logo=" " tvg-id="id" tvg-name=" " group-title="H", bein sports 7
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/907.ts
+
+#EXTINF:-1 tvg-logo=" " tvg-id="id" tvg-name=" " group-title="H", bein sports 8
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/906.ts
+
+
+
 #EXTINF:-1 tvg-logo=" " tvg-id="id" tvg-name=" " group-title="H", tes2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-
-http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/901.ts
-http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/902.ts
-http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/903.ts
-http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/904.ts
-http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/905.ts
-http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/906.ts
-http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/907.ts
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/908.ts
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/909.ts
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/910.ts
@@ -43,16 +63,50 @@ http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/926.ts
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/927.ts
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/928.ts
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/929.ts
+
+#EXTINF:-1 tvg-logo=" " tvg-id="id" tvg-name=" " group-title="H", hbo 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://46.165.202.59:2052/Xxcanal665/Hftuiu678i/111
-http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/100
-http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/101
-http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/102
-http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/103
-http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/104
-http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/105
-http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/106
+
+#EXTINF:-1 tvg-logo=" " tvg-id="id" tvg-name=" " group-title="H", hbo family
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/112
+
+#EXTINF:-1 tvg-logo=" " tvg-id="id" tvg-name=" " group-title="H", hbo signature
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/107
+
+#EXTINF:-1 tvg-logo=" " tvg-id="id" tvg-name=" " group-title="H", hbo pop
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/108
+
+#EXTINF:-1 tvg-logo=" " tvg-id="id" tvg-name=" " group-title="H", hbo extreme
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/106
+
+#EXTINF:-1 tvg-logo=" " tvg-id="id" tvg-name=" " group-title="H", hbo plus
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/109
+
+#EXTINF:-1 tvg-logo=" " tvg-id="id" tvg-name=" " group-title="H", hbo mundi
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/110
+
+http://46.165.20#EXTINF:-1 tvg-logo=" " tvg-id="id" tvg-name=" " group-title="H", hbo 2 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.22.54:2052/Xxcanal665/Hftuiu678i/107
+http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/113
+
+#EXTINF:-1 tvg-logo=" " tvg-id="id" tvg-name=" " group-title="H", hbo + HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/114
+
+#EXTINF:-1 tvg-logo=" " tvg-id="id" tvg-name=" " group-title="H", cinemax
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://46.165.202.33:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
+
+
+#EXTINF:-1 tvg-logo=" " tvg-id="id" tvg-name=" " group-title="H", tes 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/109
 http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/110
 http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/111
