@@ -268,6 +268,7 @@ https://s.id/indosiarHD_shareext-xs
 
 #EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMTEX",SCTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162141
 http://103.237.32.213:9981/stream/channelid/2075096037?profile=pass
 
 #EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMTEX",MOJI
