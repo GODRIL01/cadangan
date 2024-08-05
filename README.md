@@ -12,31 +12,77 @@ https://s1.gntr.net/listen/radio_gentara/gentara64
 https://streaming.campursarifm.com/listen/campursari/campursari892
 
 
-#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162141
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162142
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex3
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162143
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex4
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162140
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex5
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162139
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex6
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162138
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex7
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162137
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162136
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex9
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162135
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex10
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162134
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex11
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162133
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex12
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162132
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex13
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162131
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex14
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162129
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex15
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162128
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex16
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162127
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex17
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162126
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex18
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162125
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex19
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162124
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex20
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162123
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex21
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162122
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex22
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162121
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex23
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162120
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex24
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162119
 
 
