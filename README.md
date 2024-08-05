@@ -15,27 +15,29 @@ https://streaming.campursarifm.com/listen/campursari/campursari892
 #EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162141
+
 #EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162142
+http://108.181.123.217:8070/GenIptv2023/XkgMCdR7PJzShK5m/162142
 #EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex3
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162143
+http://108.181.123.217:8070/GenIptv2023/XkgMCdR7PJzShK5m/162143
 #EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex4
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162140
+http://108.181.123.217:8070/GenIptv2023/XkgMCdR7PJzShK5m/162140
 #EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex5
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162139
+http://108.181.123.217:8070/GenIptv2023/XkgMCdR7PJzShK5m/162139
 #EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex6
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162138
+http://108.181.123.217:8070/GenIptv2023/XkgMCdR7PJzShK5m/162138
+
 #EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex7
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162137
+http://108.181.123.217:8070/GenIptv2023/XkgMCdR7PJzShK5m/162137
 #EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162136
+http://108.181.123.217:8070/GenIptv2023/XkgMCdR7PJzShK5m/162136
 #EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex9
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162135
@@ -164,120 +166,6 @@ http://xtv.ooo:8080/Ijaaz123/aijaz321/350100
 http://xtv.ooo:8080/Ijaaz123/aijaz321/350101
 http://xtv.ooo:8080/Ijaaz123/aijaz321/350102
 http://xtv.ooo:8080/Ijaaz123/aijaz321/350103
-
-
-#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/117.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/001.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/002.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/003.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/004.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/005.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/006.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/007.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/008.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/009.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/010.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/011.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/012.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/013.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/014.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/015.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/016.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/017.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/018.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/019.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/020.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/021.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/022.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/023.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/024.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/025.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/025.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/026.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/027.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/028.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/028.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/030.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/031.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/032.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/033.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/034.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/035.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/036.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/037.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/038.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/039.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/040.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/041.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/042.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/043.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/044.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/045.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/046.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/047.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/048.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/049.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/059.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/069.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/061.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/062.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/063.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/064.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/065.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/066.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/067.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/068.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/069.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/070.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/071.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/072.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/073.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/074.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/075.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/076.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/077.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/078.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/079.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/080.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/081.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/082.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/083.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/084.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/085.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/086.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/087.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/088.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/089.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/090.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/091.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/092.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/093.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/094.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/095.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/096.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/097.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/098.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/099.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/100.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/101.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/102.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/103.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/104.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/105.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/106.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/107.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/108.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/109.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/110.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/111.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/112.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/113.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/114.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/115.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/116.ts
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/117.ts
 
 
 
