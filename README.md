@@ -12,6 +12,34 @@ https://s1.gntr.net/listen/radio_gentara/gentara64
 https://streaming.campursarifm.com/listen/campursari/campursari892
 
 
+#EXTINF:-1 tvg-id="TES1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo=" " group-title="EMT",tes emtex
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162141
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162142
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162143
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162140
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162139
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162138
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162137
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162136
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162135
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162134
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162133
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162132
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162131
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162129
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162128
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162127
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162126
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162125
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162124
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162123
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162122
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162121
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162120
+http://108.181.123.13:8070/GenIptv2023/XkgMCdR7PJzShK5m/162119
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png " tvg-id="id" tvg-name=" " group-title="BEIN SPORTS ", bein sports 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
