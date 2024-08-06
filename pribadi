@@ -11,40 +11,27 @@
 https://streaming.campursarifm.com/listen/campursari/campursari892
 
                                        
-#EXTINF:-1 group-title="LIVE EVENT" tvg-id="mncsports3.id" tvg-logo="https://i.imgur.com/qZBojO1.jpeg ",Live 1
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="mncsports3.id" tvg-logo="https://i.imgur.com/qZBojO1.jpeg ",sportstar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" group-title="LIVE EVENT ",  Live 2
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
-
 #EXTINF:-1 tvg-id="Okey.my" group-title=" LIVE EVENT" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_XtwI72-x2n65IgUYFyWsf5pREW-Q7BmgZQ&s", Live 3 (World Cup 26)
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="LIVE EVENT", LIVE 4
+#EXTINF:-1 tvg-id="" tvg-name="ID: MOJI" tvg-logo="https://i.imgur.com/lRWVMig.jpg " group-title=" LIVE EVENT ",moji
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
 
- 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://i.imgur.com/S5k3QDO.png " group-title=" LIVE EVENT ",Live 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0)
-http://iptvtree.net:8080/e891d265/89d742c3/162138
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://i.imgur.com/S5k3QDO.png " group-title=" LIVE EVENT ",indosiar
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://108.181.132.217:8070/GenIptv2023/XkgMCdR7PJzShK5m/162138
 
-
-
-#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title=" LIVE EVENT",Live 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0)
-http://iptvtree.net:8080/F14995/a84c0963/162141
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9722.m3u8|User-Agent=OTT
-
-
-
-#EXTINF:-1 tvg-logo=" " tvg-id=".id" tvg-name=" " group-title="LIVE EVENT", Live 7
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://6d42a49f.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9GSUZBUGx1c19ITFM/ffb442bd-ee86-4d86-8f75-34166743c752/2.m3u8
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://i.imgur.com/0SqX7L7.jpg " group-title=" LIVE EVENT",sctv
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://103.237.32.213:9981/stream/channelid/2075096037?profile=pass
 
 
 ****************************************************************************************************
