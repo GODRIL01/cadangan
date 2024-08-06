@@ -45,7 +45,7 @@ http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/906.ts
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://46.165.202.33:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
 
-http://46.165.20#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png " tvg-id="id" tvg-name="hbo2 " group-title="HBO GROUP ", HBO 2 
+http://46.165.20#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png " tvg-name="hbo2 " group-title="HBO GROUP ", HBO 2 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.22.54:2052/Xxcanal665/Hftuiu678i/107
 http://46.165.202.54:2052/Xxcanal665/Hftuiu678i/113
 
